@@ -46,9 +46,11 @@ His dream is share his knowledge and develop really great things that will chang
 **Mainly Activities:** Analysis, architecture and development of web systems for São Paulo’s State Government.
 
 
+
 **2014 – 2015 – Sistemas Seguros:** Analyst Programmer 
 
 **Mainly Activities:** Analysis, arquitecture and maintenance of online brokerage system modules.
+
 
 
 **2012 - 2014 – Valid S.A.:** Smartcard System Analyst
@@ -56,9 +58,11 @@ His dream is share his knowledge and develop really great things that will chang
 **Mainly Activities:** Analysis, architecture and development of management of banking (ST and Toshiba) and transport (NXP and Infineon Mifare) environments - personalization DLLs, personalization template loading, insertion of keys in HSM, quality control software. Also development of applications to read and write My-d-Move NFC tags (Infineon) and PKI .
 
 
+
 **2012 - 2012 – Vip-Systems:** Jr Programmer
 
 Mainly Activities: Development of modules and reports for sells program (developed in Visual Fox Pro 9 with MySQL). Development of views and procedures to centralize all business rules in database. Development of interactive applications to stores and events (information and welcome totens) developed in Java and C# and with Kinect and RFID integration.
+
 
 
 #Community Projects:

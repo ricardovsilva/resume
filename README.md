@@ -1,15 +1,10 @@
 # Ricardo da Verdade Silva
 
-24 years
-
-Tatuapé - São Paulo SP - Brazil
-
-Celphone: (+55 11)99239-5454
-
-Skype: ricardovsilva
-
+24 years</br>
+Tatuapé - São Paulo SP - Brazil</br>
+Celphone: (+55 11)99239-5454</br>
+Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
-
 
 # About:
 Ricardo is a System Architect that loves develop. He has knowledge and experience with a great variety of languages and technologies, such as .NET environment, Ruby (with Rails, Sinatra and Jekyll frameworks), Python (with Django, CherryPy, Scrapper and PyGame frameworks), and others.
@@ -41,31 +36,25 @@ His dream is share his knowledge and develop really great things that will chang
 
 # Professional Experience:
 
-**2015 – Present – G&P:** Analyst Programmer 
+**2015 – Present – G&P:** Analyst Programmer </br>
+**Main Activities:** Analysis, architecture and development of web systems for São Paulo’s State Government.
 
-**Mainly Activities:** Analysis, architecture and development of web systems for São Paulo’s State Government.
-
-
-
-**2014 – 2015 – Sistemas Seguros:** Analyst Programmer 
-
-**Mainly Activities:** Analysis, arquitecture and maintenance of online brokerage system modules.
+**2014 – 2015 – Sistemas Seguros:** Analyst Programmer </br>
+**Main Activities:** Analysis, arquitecture and maintenance of online brokerage system modules.
 
 
 
-**2012 - 2014 – Valid S.A.:** Smartcard System Analyst
-
-**Mainly Activities:** Analysis, architecture and development of management of banking (ST and Toshiba) and transport (NXP and Infineon Mifare) environments - personalization DLLs, personalization template loading, insertion of keys in HSM, quality control software. Also development of applications to read and write My-d-Move NFC tags (Infineon) and PKI .
-
-
-
-**2012 - 2012 – Vip-Systems:** Jr Programmer
-
-Mainly Activities: Development of modules and reports for sells program (developed in Visual Fox Pro 9 with MySQL). Development of views and procedures to centralize all business rules in database. Development of interactive applications to stores and events (information and welcome totens) developed in Java and C# and with Kinect and RFID integration.
+**2012 - 2014 – Valid S.A.:** Smartcard System Analyst </br>
+**Main Activities:** Analysis, architecture and development of management of banking (ST and Toshiba) and transport (NXP and Infineon Mifare) environments - personalization DLLs, personalization template loading, insertion of keys in HSM, quality control software. Also development of applications to read and write My-d-Move NFC tags (Infineon) and PKI .
 
 
 
-#Community Projects:
+**2012 - 2012 – Vip-Systems:** Jr Programmer </br>
+**Mainly Activities:** Development of modules and reports for sells program (developed in Visual Fox Pro 9 with MySQL). Development of views and procedures to centralize all business rules in database. Development of interactive applications to stores and events (information and welcome totens) developed in Java and C# and with Kinect and RFID integration.
+
+
+
+# Community Projects:
 
 - I have github open source codes repository that can be accessed in [https://github.com/ricardovsilva](https://github.com/ricardovsilva)
 
@@ -76,7 +65,7 @@ Mainly Activities: Development of modules and reports for sells program (develop
 - I take part, actively, on global StackOverflow ([http://stackoverflow.com/users/2350913/ricardo-silva](http://stackoverflow.com/users/2350913/ricardo-silva)) and Brazilian StackOverflow  ([http://pt.stackoverflow.com/users/24406/ricardo-silva](http://pt.stackoverflow.com/users/24406/ricardo-silva))
 
 
-#Social Networks:
+# Social Networks:
 
 - **Linkedin:** [https://br.linkedin.com/pub/ricardo-silva/27/673/660/en](https://br.linkedin.com/pub/ricardo-silva/27/673/660/en)
 
@@ -89,9 +78,8 @@ Mainly Activities: Development of modules and reports for sells program (develop
 - **Transifex:** [[https://www.transifex.com/accounts/profile/ricardovsilva/](https://www.transifex.com/accounts/profile/ricardovsilva/)
 
 
-#Aditional Information:
+# Aditional Information:
 
 - I have North American Business Visa (expires in 2023)
 - I have EMV knowledge, also in Java Applets for Smartcards (bank and transport cards).
 - I also have two years of experience with user support and IT infrastructure.
-

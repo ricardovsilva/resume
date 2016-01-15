@@ -1,10 +1,15 @@
 # Ricardo da Verdade Silva
 
 24 years
-Tatuapé - São Paulo SP - Brazil.
+
+Tatuapé - São Paulo SP - Brazil
+
 Celphone: (+55 11)99239-5454
+
 Skype: ricardovsilva
+
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
+
 
 # About:
 Ricardo is a System Architect that loves develop. He has knowledge and experience with a great variety of languages and technologies, such as .NET environment, Ruby (with Rails, Sinatra and Jekyll frameworks), Python (with Django, CherryPy, Scrapper and PyGame frameworks), and others.

@@ -19,7 +19,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 - **Conhecimentos Básicos:** Programação GPGPU, Lua.
 
-# Academico:
+# Acadêmico:
 - Graduação em Análise e Desenvolvimento de Sistemas pela FATEC São Paulo. Previsão de conclusão em 2018.
 
 - Graduação em Desenvolvimento de Jogos Digitais pela FATEC Carapicúiba. 3 anos concluídos. Curso atualmente trancado.

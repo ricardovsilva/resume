@@ -45,10 +45,10 @@ English: Advanced and in development, advanced conversation, advanced writiug an
 
 ## Community Projects:
 
-I have github open source codes repository that can be accessed in https://github.com/ricardovsilva</br>
-I translated TryRuby.nl interactive tutorial to Brazilian Portuguese, it can be accessed in http://tryruby.nl.</br>
-I take part in StackExchange translation from english to brazilian portuguese (translation is already completed, actually project is in review stage). My translator profile can be accessed in https://www.transifex.com/accounts/profile/ricardovsilva/</br>
-I take part, actively, on global StackOverflow (http://stackoverflow.com/users/2350913/ricardo-silva) and Brazilian StackOverflow (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
+- I have github open source codes repository that can be accessed in https://github.com/ricardovsilva</br>
+- I translated TryRuby.nl interactive tutorial to Brazilian Portuguese, it can be accessed in http://tryruby.nl.</br>
+- I take part in StackExchange translation from english to brazilian portuguese (translation is already completed, actually project is in review stage). My translator profile can be accessed in https://www.transifex.com/accounts/profile/ricardovsilva/</br>
+- I take part, actively, on global StackOverflow (http://stackoverflow.com/users/2350913/ricardo-silva) and Brazilian StackOverflow (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
 
 ## Social Networks:
 

@@ -29,7 +29,7 @@ Technical in Mechatronics - ETEC Martin Luther King – Concluded in 2009;</br>
 
 English: Advanced and in development, advanced conversation, advanced writiug and fluent reading.</br>
 
-# Professional Experience:
+## Professional Experience:
 
 **2015 – Present – G&P:** Analyst Programmer </br>
 **Main Activities:** Analysis, architecture and development of web systems for São Paulo’s State Government.

@@ -22,11 +22,8 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## Academic:
 Graduation in System Analysis – FATEC São Paulo – completion forecast in 2018;</br>
-
 Graduation in Game Development – FATEC Carapicuiba – 3 years completed (course locked).</br>
-
 Technical in Mechatronics - ETEC Martin Luther King – Concluded in 2009;</br>
-
 English: Advanced and in development, advanced conversation, advanced writiug and fluent reading.</br>
 
 ## Professional Experience:

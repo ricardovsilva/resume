@@ -2,7 +2,7 @@
 
 24 years</br>
 Tatuapé - São Paulo SP - Brazil</br>
-Celphone: (+55 11)99239-5454</br>
+Mobile: (+55 11)99239-5454</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
 

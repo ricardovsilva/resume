@@ -7,8 +7,8 @@ Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
 
 ## Sobre:
-Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como .NET, Ruby (Rails, Sinatra e Jekyll), Python (Django, CherryPy, Scrapper e PyGame), e outros.</br>
-Com toda sua experiência e conhecimento, Ricardo é capaz de arquitetar e desenvolver sistemas de alta disponibilidade e completamente modulares. Garantindo a qualidade durante todo o ciclo de desenvolvimento.</br>
+Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como .NET, Ruby (Rails, Sinatra e Jekyll), Python (Django, CherryPy, Scrapper e PyGame), além de diversos bancos de dados, relacionais e não relacionais, como Sql Server, Oracle, MySql e MongoDb.</br>
+Graças ao seu background com variadas tecnologias, Ricardo é capaz de arquitetar e desenvolver soluções de alta disponibilidade, com qualidade e de fácil manutenção, respeitando as particularidades de cada solução e escolhendo o conjunto de ferramentas mais adequadas a cada caso.</br>
 Ricardo facilmente troca noites de sono por mais tempo para aprender ou desenvolver, e ele está sempre aprendendo novas tecnologias tanto quanto participando da comunidade Open Source. Falando em Open Source, Ricardo ama o jeito Open Source e a história e filosofia que estão por trás de cada projeto. Isto significa que ele consegue facilmente, e prefere, trabalhar em ambientes Linux (hoje ele continua usando Windows somente porque ele ama jogar também).</br>
 Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandiosas e que irão mudar as vidas das pessoas. Ele também busca a troca cultural, profissional e intelectual de viver em outro país.
 

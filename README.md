@@ -9,6 +9,7 @@ Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
 ## About:
 Ricardo is a System Architect that loves develop. He has knowledge and experience with a great variety of languages and technologies, such as .NET environment, Ruby (with Rails, Sinatra and Jekyll frameworks), Python (with Django, CherryPy, Scrapper and PyGame frameworks), and others.
 Definetly, his strongest point is the back-end knowledge (not only with languages, but also with infrastructure), but he also knows some frontend, like html5, css, javascript, knockoutjs, wordpress and other technologies.</br>
+Using all his experience and knowledge, Ricardo is capable, and has experience, to architect and develop high available and completely modular systems. Ensuring quality through all development lifecicle. 
 Ricardo easily exchanges sleep for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, Ricardo loves the Open Source way, the history and the philosophy behind each project. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
 His dream is share his knowledge and develop really great things that will change people's life. He also seeks the cultural, professional and intellectual exchange of living in another country.
 

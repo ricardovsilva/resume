@@ -21,7 +21,7 @@ His dream is share his knowledge and develop really great things that will chang
 
 **Database:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
 
-**Development Methodologies:** TDD, BDD, Scrum, Continuous Integration, Design Patterns (decorator, factory and abstract factory).
+**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration, Design Patterns (decorator, factory and abstract factory).
 
 **Version Control Systems:** Git (self hosted, github and bitbucket), Microsoft TFS, Borland Starteam.
 

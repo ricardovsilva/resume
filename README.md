@@ -7,7 +7,7 @@ Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
 
 ## About:
-Ricardo is a System Architect that loves develop. He has knowledge and experience with a great variety of languages and technologies, such as .NET environment, Ruby (with Rails, Sinatra and Jekyll frameworks), Python (with Django, CherryPy, Scrapper and PyGame frameworks), and others.
+Ricardo is a System Architect and Full-Stack developer that loves develop. He has knowledge and experience with a great variety of languages and technologies, such as .NET environment, Ruby (with Rails, Sinatra and Jekyll frameworks), Python (with Django, CherryPy, Scrapper and PyGame frameworks), and others.
 Definetly, his strongest point is the back-end knowledge (not only with languages, but also with infrastructure), but he also knows some frontend, like html5, css, javascript, knockoutjs, wordpress and other technologies.</br>
 Using all his experience and knowledge, Ricardo is capable to architect and develop high available and completely modular systems. Ensuring quality through all development lifecicle. 
 Ricardo easily exchanges sleep for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, Ricardo loves the Open Source way, the history and the philosophy behind each project. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
@@ -15,15 +15,15 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## IT Knowledges
 
-** Back-End: ** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), development and consumption of webservices, OAuth2.
+**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), development and consumption of webservices, OAuth2.
 
-** Front-End: ** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
+**Front-End:** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
 
-** Database: ** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
+**Database:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
 
-** Development Methodologies: ** TDD, BDD, TFS, Scrum, Continuous Integration, Design Patterns (decorator, factory and abstract factory).
+**Development Methodologies:** TDD, BDD, TFS, Scrum, Continuous Integration, Design Patterns (decorator, factory and abstract factory).
 
-** Others: ** Android Studio, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM.
+**Others:** Android Studio, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM.
 
 ## Academic:
 Graduation in System Analysis – FATEC São Paulo – completion forecast in 2018;</br>

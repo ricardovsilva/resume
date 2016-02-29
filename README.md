@@ -15,11 +15,15 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## IT Knowledges
 
-**Advanced Knowledges:** .NET (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), HTML, CSS, Javascript, KnockoutJS, Vim, Emmet, Cryptography, Development and Consumption of Webservices (Soap, Rest, Web Api), Github, TDD, BDD, TFS, Scrum, Continuous Integration, Software Architecture, Software Engineering, Design Patterns, Bootstrap, RFID, NFC, MS Sql Server, MySQL, VBA, Parallel Processing, Infrastructure, PKCS11 compliant HSM.</br>
+** Back-End: ** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), development and consumption of webservices, OAuth2.
 
-**Intermediary Knowledge:** Android Development, Project Management, C++, Game Development, Unity 3D and 2D.</br>
+** Front-End: ** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
 
-**Basic Knowledge:** GPGPU Programming, Lua.</br>
+** Database: ** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
+
+** Development Methodologies: ** TDD, BDD, TFS, Scrum, Continuous Integration, Design Patterns (decorator, factory and abstract factory).
+
+** Others: ** Android Studio, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM.
 
 ## Academic:
 Graduation in System Analysis – FATEC São Paulo – completion forecast in 2018;</br>

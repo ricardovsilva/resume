@@ -13,14 +13,18 @@ Ricardo facilmente troca noites de sono por mais tempo para aprender ou desenvol
 Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandiosas e que irão mudar as vidas das pessoas. Ele também busca a troca cultural, profissional e intelectual de viver em outro país.
 
 
-## Conhecimentos Técnicos
-**Conhecimentos Avançados:** .NET (Asp.Net MVC 4 e 5), Ruby (Rails, Sinatra e Jekyll), Python (Django, Scrapy, CherryPy, Py Game), HTML, CSS, Javascript, KnockoutJS, Vim, Emmet, Criptografia, Desenvolvimento e Consumo de Webservices (Soap, Rest e Web Api), Github, TDD, BDD, TFS, Scrum, Integração Contínua, Arquitetura de Software, Engenharia de Software, Design Patterns, Bootstrap, RFID, NFC, MS Sql Server, MySQL, VBA, Processamento Paralelo, Infraestrutura, PKCS11 compliant HSM.
+## Conhecimentos de TI
+**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), desenvolvimento e consumo de webservices, OAuth2.
 
+**Front-End:** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
 
-**Conhecimentos Intermediários:** Desenvolvimento Android, Gerenciamento de Projetos, C++, Desenvolvimento de Jogos, Unity 3D e 2D.
+**Banco de Dados:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
 
+**Metodologias de Desenvolvimento:** TDD, BDD, Scrum, Integração Continua, Design Patterns (decorator, factory e abstract factory).
 
-**Conhecimentos Básicos:** Programação GPGPU, Lua.
+**Controle de Versão:** Git (github e bitbucket), Microsoft TFS, Borland Starteam.
+
+**Outros:** Android Studio, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
 
 
 ## Acadêmico:

@@ -8,8 +8,8 @@ Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
 
 ## Sobre:
 Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como .NET, Ruby (Rails, Sinatra e Jekyll), Python (Django, CherryPy, Scrapper e PyGame), além de diversos bancos de dados, relacionais e não relacionais, como Sql Server, Oracle, MySql e MongoDb.</br>
-Graças ao seu background com variadas tecnologias, Ricardo é capaz de arquitetar e desenvolver soluções de alta disponibilidade, com qualidade e de fácil manutenção, respeitando as particularidades de cada solução e escolhendo o conjunto de ferramentas mais adequadas a cada caso.</br>
 Ricardo facilmente troca noites de sono por mais tempo para aprender ou desenvolver, e ele está sempre aprendendo novas tecnologias tanto quanto participando da comunidade Open Source. Falando em Open Source, Ricardo ama o jeito Open Source e a história e filosofia que estão por trás de cada projeto. Isto significa que ele consegue facilmente, e prefere, trabalhar em ambientes Linux (hoje ele continua usando Windows somente porque ele ama jogar também).</br>
+Graças ao seu background com variadas tecnologias, Ricardo é capaz de arquitetar e desenvolver soluções de alta disponibilidade, com qualidade e de fácil manutenção, respeitando as particularidades de cada solução e escolhendo o conjunto de ferramentas mais adequadas a cada caso.</br>
 Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandiosas e que irão mudar as vidas das pessoas. Ele também busca a troca cultural, profissional e intelectual de viver em outro país.
 
 
@@ -20,7 +20,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 **Banco de Dados:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
 
-**Metodologias de Desenvolvimento:** TDD, BDD, Scrum, Integração Continua, Design Patterns (decorator, factory e abstract factory).
+**Metodologias de Desenvolvimento:** TDD, BDD, Scrum, SOLID, Integração Continua, Design Patterns (decorator, factory e abstract factory).
 
 **Controle de Versão:** Git (github e bitbucket), Microsoft TFS, Borland Starteam.
 
@@ -49,7 +49,6 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 ## Projetos da Comunidade:
 - Eu possuo repositórios de código aberto que podem ser acessados em meu perfil do github https://github.com/ricardovsilva</br>
 - Eu traduzi o tutorial interativo de ruby, TryRuby.nl, para o português do Brasil. Este pode ser acessado em http://tryruby.nl</br>
-- Participei da tradução, de inglês para português, da plataforma StackExchange. Meu perfil de tradutor pode ser acessado em https://www.transifex.com/accounts/profile/ricardovsilva/</br>
 - Participo ativamente do StackOverflow internacional (http://stackoverflow.com/users/2350913/ricardo-silva) e do StackOverflow Brasileiro (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
  
 ## Redes Sociais:
@@ -58,7 +57,6 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 - **Github:** [https://github.com/ricardovsilva](https://github.com/ricardovsilva)</br>
 - **Stackoverflow (Global):** [http://stackoverflow.com/users/2350913/ricardo-silva](http://stackoverflow.com/users/2350913/ricardo-silva)</br>
 - **StackOverflow (Brasileiro):** [http://pt.stackoverflow.com/users/24406/ricardo-silva](http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
-- **Transifex:** [[https://www.transifex.com/accounts/profile/ricardovsilva/](https://www.transifex.com/accounts/profile/ricardovsilva/)</br>
 
 ## Informações Adicionais:
 

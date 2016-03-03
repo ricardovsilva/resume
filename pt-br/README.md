@@ -53,10 +53,10 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
  
 ## Redes Sociais:
 
-- **Linkedin:** [https://br.linkedin.com/pub/ricardo-silva/27/673/660/en](https://br.linkedin.com/pub/ricardo-silva/27/673/660/en)</br>
-- **Github:** [https://github.com/ricardovsilva](https://github.com/ricardovsilva)</br>
-- **Stackoverflow (Global):** [http://stackoverflow.com/users/2350913/ricardo-silva](http://stackoverflow.com/users/2350913/ricardo-silva)</br>
-- **StackOverflow (Brasileiro):** [http://pt.stackoverflow.com/users/24406/ricardo-silva](http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
+- **Linkedin:** https://br.linkedin.com/pub/ricardo-silva/27/673/660/en</br>
+- **Github:** https://github.com/ricardovsilva</br>
+- **Stackoverflow (Global):** http://stackoverflow.com/users/2350913/ricardo-silva</br>
+- **StackOverflow (Brasileiro):** http://pt.stackoverflow.com/users/24406/ricardo-silva</br>
 
 ## Informações Adicionais:
 

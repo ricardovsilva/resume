@@ -2,7 +2,7 @@
 
 25 anos</br>
 Tatuapé - São Paulo SP - Brasil</br>
-Cel.: (+55 11)99239-5454</br>
+Cel.: (+55 11)94985-7584</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
 
@@ -20,11 +20,11 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 **Banco de Dados:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
 
-**Metodologias de Desenvolvimento:** TDD, BDD, Scrum, SOLID, Integração Continua, Design Patterns (decorator, factory e abstract factory).
+**Metodologias de Desenvolvimento:** TDD, BDD, Scrum, SOLID, Integração Continua, Design Patterns.
 
-**Controle de Versão:** Git (github e bitbucket), Microsoft TFS, Borland Starteam.
+**Controle de Versão:** Git (github e bitbucket), Microsoft TFS.
 
-**Outros:** Android Studio, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
+**Outros:** AWS, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
 
 
 ## Acadêmico:
@@ -34,7 +34,10 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 ## Experiência Profissional:
 
-**2015 - Atualmente - G&P:** Analista Programador</br>
+**2016 - Atualmente - Cuponomia:** Programador Pleno</br>
+**Principais Atividades:** Desenvolvimento back-end e propor melhorias a arquitetura do sistema, apontando tecnologias a serem usadas e justificando o seu uso, tal como o desenvolvimento de sistemas satélites a fim de suportar e melhorar o fluxo de trabalho de toda a equipe. Treinamento e desenvolvimento de estagiário back-end.
+
+**2015 - 2016 - G&P:** Analista Programador</br>
 **Principais Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo.
 
 **2014 - 2015 - Sistemas Seguros:** Analista Programador </br>

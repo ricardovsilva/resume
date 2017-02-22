@@ -2,7 +2,7 @@
 
 25 years</br>
 Tatuapé - São Paulo SP - Brazil</br>
-Mobile: (+55 11)99239-5454</br>
+Mobile: (+55 11)94985-7584</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
 
@@ -21,11 +21,11 @@ His dream is share his knowledge and develop really great things that will chang
 
 **Database:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
 
-**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration, Design Patterns (decorator, factory and abstract factory).
+**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration, Design Patterns.
 
-**Version Control Systems:** Git (self hosted, github and bitbucket), Microsoft TFS, Borland Starteam.
+**Version Control Systems:** Git (self hosted, github and bitbucket), Microsoft TFS.
 
-**Others:** Android Studio, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM.
+**Others:** AWS, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM.
 
 ## Academic:
 Graduation in System Analysis – FATEC São Paulo – completion forecast in 2018;</br>
@@ -35,7 +35,11 @@ English: Advanced and in development, advanced conversation, advanced writiug an
 
 ## Professional Experience:
 
-**2015 – Present – G&P:** Analyst Programmer </br>
+**2016 – Present – Cuponomia:** Analyst Programmer </br>
+**Main Activities:** Back-end development and propose improvements to system architecture, pointing new technologies and justifying its use, such as development of satellite systems to support and improve all team workflow. Training and improvement of a back-end trainee.
+
+
+**2015 – Present – 2016:** Analyst Programmer </br>
 **Main Activities:** Analysis, architecture and development of web systems for São Paulo’s State Government.
 
 

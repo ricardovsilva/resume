@@ -60,6 +60,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 - **Github:** https://github.com/ricardovsilva</br>
 - **Stackoverflow (Global):** http://stackoverflow.com/users/2350913/ricardo-silva</br>
 - **StackOverflow (Brasileiro):** http://pt.stackoverflow.com/users/24406/ricardo-silva</br>
+- **Twitter:** https://twitter.com/MrTruthDev
 
 ## Informações Adicionais:
 

@@ -67,6 +67,7 @@ English: Advanced and in development, advanced conversation, advanced writiug an
 **Github:** https://github.com/ricardovsilva</br>
 **Stackoverflow (Global):** http://stackoverflow.com/users/2350913/ricardo-silva</br>
 **StackOverflow (Brazilian):** http://pt.stackoverflow.com/users/24406/ricardo-silva</br>
+**Twitter:** https://twitter.com/MrTruthDev
 
 ## Aditional Information:
 

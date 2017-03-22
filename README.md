@@ -39,7 +39,7 @@ English: Advanced and in development, advanced conversation, advanced writiug an
 **Main Activities:** Back-end development and propose improvements to system architecture, pointing new technologies and justifying its use, such as development of satellite systems to support and improve all team workflow. Training and improvement of a back-end trainee.
 
 
-**2015 – Present – 2016:** Analyst Programmer </br>
+**2015 – 2016 - G&P:** Analyst Programmer </br>
 **Main Activities:** Analysis, architecture and development of web systems for São Paulo’s State Government.
 
 

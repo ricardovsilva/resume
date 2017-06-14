@@ -1,49 +1,52 @@
 # Ricardo da Verdade Silva
 
 25 years</br>
-Tatuapé - São Paulo SP - Brazil</br>
+Boa Vista - Curitiba - PR - Brazil</br>
 Mobile: (+55 11)94985-7584</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
 
 ## About:
 Ricardo is a System Architect and Full Stack developer that loves develop. He has knowledge and experience with a great variety of languages and technologies, such as .NET environment, Ruby (with Rails, Sinatra and Jekyll frameworks), Python (with Django, CherryPy, Scrapper and PyGame frameworks), and others (and he never stop learning new technologies).
-Ricardo easily exchanges free time for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, Ricardo loves the Open Source way, the history and the philosophy behind each project. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
+Ricardo easily exchanges free time for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, Ricardo loves the Open Source way, the history and the philosophy behind each project, and have done a few contributions with some open repositories. Also, Ricardo loves Python language and Python community. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
 Definetly, his strongest point is the back-end knowledge (not only with languages, but also with infrastructure), but he also knows some frontend, like html5, css, javascript, knockoutjs, wordpress and other technologies.</br>
 Using all his experience and knowledge, Ricardo is capable to architect and develop high available and completely modular systems. Ensuring quality through all development lifecicle. 
 His dream is share his knowledge and develop really great things that will change people's life. He also seeks the cultural, professional and intellectual exchange of work with professionals around the world.
 
 ## IT Knowledges
 
-**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), development and consumption of webservices, OAuth2.
+**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), development and consumption of webservices, Microservices.
 
 **Front-End:** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
 
 **Database:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
 
-**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration, Design Patterns.
+**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration (with git + jenkins and git + tfs).
 
 **Version Control Systems:** Git (self hosted, github and bitbucket), Microsoft TFS.
 
 **Others:** AWS, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM.
 
 ## Academic:
-Graduation in System Analysis – FATEC São Paulo – completion forecast in 2018;</br>
+Graduation in System Analysis – FATEC São Paulo – 2 years completed (course locked).</br>
 Graduation in Game Development – FATEC Carapicuiba – 3 years completed (course locked).</br>
 Technical in Mechatronics - ETEC Martin Luther King – Concluded in 2009;</br>
 English: Advanced and in development, advanced conversation, advanced writiug and fluent reading.</br>
 
 ## Professional Experience:
 
-**2016 – Present – Cuponomia:** Analyst Programmer </br>
-**Main Activities:** Back-end development and propose improvements to system architecture, pointing new technologies and justifying its use, such as development of satellite systems to support and improve all team workflow. Training and improvement of a back-end trainee.
+**2017 - Actual - BlendIT:** Sr Web Developer </br>
+**Main Activities:** Architecture and development of wide range web applications. Refactor and improvement of legacy systems using best practices and spreading those practices to all team.
+
+**2016 – 2017 – Cuponomia:** Web Developer </br>
+**Main Activities:** Back-end development and propose improvements to system architecture, pointing new technologies and justifying its use, such as development of satellite systems to support and improve all team workflow. Development of microservices using MQ system. Training and improvement of a back-end trainee.
 
 
-**2015 – 2016 - G&P:** Analyst Programmer </br>
+**2015 – 2016 - G&P:** Web Developer </br>
 **Main Activities:** Analysis, architecture and development of web systems for São Paulo’s State Government.
 
 
-**2014 – 2015 – Sistemas Seguros:** Analyst Programmer </br>
+**2014 – 2015 – Sistemas Seguros:** Web Developer </br>
 **Main Activities:** Analysis, arquitecture and maintenance of online brokerage system modules.
 
 
@@ -51,7 +54,7 @@ English: Advanced and in development, advanced conversation, advanced writiug an
 **Main Activities:** Analysis, architecture and development of management of banking (ST and Toshiba) and transport (NXP and Infineon Mifare) environments - personalization DLLs, personalization template loading, insertion of keys in HSM, quality control software. Also development of applications to read and write My-d-Move NFC tags (Infineon) and PKI .
 
 
-**2012 - 2012 – Vip-Systems:** Jr Programmer </br>
+**2012 - 2012 – Vip-Systems:** Jr Software Engineer </br>
 **Mainly Activities:** Development of modules and reports for sells program (developed in Visual Fox Pro 9 with MySQL). Development of views and procedures to centralize all business rules in database. Development of interactive applications to stores and events (information and welcome totens) developed in Java and C# and with Kinect and RFID integration.
 
 ## Community Projects:

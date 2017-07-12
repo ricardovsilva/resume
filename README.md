@@ -15,7 +15,7 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## IT Knowledges
 
-**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), development and consumption of webservices, Microservices.
+**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), development and consumption of webservices, Microservices.
 
 **Front-End:** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
 

@@ -14,7 +14,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 
 ## Conhecimentos de TI
-**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Scrapy, CherryPy, Py Game), desenvolvimento e consumo de webservices, desenvolvimento orientado a micro serviços.
+**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), desenvolvimento e consumo de webservices, desenvolvimento orientado a micro serviços.
 
 **Front-End:** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
 

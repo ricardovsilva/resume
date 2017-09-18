@@ -1,7 +1,7 @@
 # Ricardo da Verdade Silva
 
 26 anos</br>
-Boa Vista - Curitiba - PR - Brazil</br>
+Boa Vista - Curitiba - PR - Brasil</br>
 Cel.: (+55 11)94985-7584</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>

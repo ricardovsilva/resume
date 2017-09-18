@@ -14,18 +14,17 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 
 ## Conhecimentos de TI
-**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), desenvolvimento e consumo de webservices, desenvolvimento orientado a micro serviços.
+**Back-End:** .Net (Asp.Net MVC), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJs (Express, Chromeless), dentre outros.
 
 **Front-End:** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
 
-**Banco de Dados:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB.
+**Banco de Dados:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB, Elasticsearch, Apache Solr.
 
 **Metodologias de Desenvolvimento:** TDD, BDD, Scrum, SOLID, Integração Continua (git + jenkins e git + tfs).
 
 **Controle de Versão:** Git (github e bitbucket), Microsoft TFS.
 
 **Outros:** AWS, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
-
 
 ## Acadêmico:
 - Graduação em Análise e Desenvolvimento de Sistemas pela FATEC São Paulo. 2 anos concluídos. Curso atualmente trancado.</br>

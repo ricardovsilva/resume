@@ -35,26 +35,25 @@ English: Advanced and in development, advanced conversation, advanced writiug an
 
 ## Professional Experience:
 
-**2017 - Actual - BlendIT:** Sr Web Developer </br>
+**BlendIT - Sr Web Developer (2017 to Actual)**</br>
 **Main Activities:** Architecture and development of wide range web applications. Refactor and improvement of legacy systems using best practices and spreading those practices to all team.
 
-**2016 – 2017 – Cuponomia:** Web Developer </br>
+**Cuponomia - Web Developer (2016 to 2017)**</br>
 **Main Activities:** Back-end development and propose improvements to system architecture, pointing new technologies and justifying its use, such as development of satellite systems to support and improve all team workflow. Development of microservices using MQ system. Training and improvement of a back-end trainee.
 
-
-**2015 – 2016 - G&P:** Web Developer </br>
+**G&P - Web Developer (2015 to 2016)** </br>
 **Main Activities:** Analysis, architecture and development of web systems for São Paulo’s State Government.
 
 
-**2014 – 2015 – Sistemas Seguros:** Web Developer </br>
+**Sistemas Seguros - Web Developer (2014 to 2015)** </br>
 **Main Activities:** Analysis, arquitecture and maintenance of online brokerage system modules.
 
 
-**2012 - 2014 – Valid S.A.:** Smartcard System Analyst </br>
+**Valid S.A. - Smartcard System Analyst (2012 to 2014)**</br>
 **Main Activities:** Analysis, architecture and development of management of banking (ST and Toshiba) and transport (NXP and Infineon Mifare) environments - personalization DLLs, personalization template loading, insertion of keys in HSM, quality control software. Also development of applications to read and write My-d-Move NFC tags (Infineon) and PKI .
 
 
-**2012 - 2012 – Vip-Systems:** Jr Software Engineer </br>
+**Vip-Systems - Jr Software Engineer (2012 to 2012)**  </br>
 **Mainly Activities:** Development of modules and reports for sells program (developed in Visual Fox Pro 9 with MySQL). Development of views and procedures to centralize all business rules in database. Development of interactive applications to stores and events (information and welcome totens) developed in Java and C# and with Kinect and RFID integration.
 
 ## Community Projects:

@@ -8,7 +8,7 @@ Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
 
 ## About:
 Ricardo is a System Architect and Full Stack developer that loves develop. He has knowledge and experience with a great variety of languages and technologies, such as .NET environment, Ruby (with Rails, Sinatra and Jekyll frameworks), Python (with Django, CherryPy, Scrapper and PyGame frameworks), and others.
-Ricardo easily exchanges free time for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, Ricardo loves the Open Source way, the history and the philosophy behind each project, and have done a few contributions with some open repositories. Also, Ricardo loves Python language and Python community. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
+Ricardo easily exchanges free time for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, he loves the Open Source way, the history and the philosophy behind each project, and have done a few contributions with some open repositories. Also, loves Python language and Python community. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
 Definetly, his strongest point is the back-end knowledge (not only with languages, but also with infrastructure), but he also knows some frontend, like html5, css, javascript, knockoutjs, wordpress and other technologies.</br>
 Using all his experience and knowledge, Ricardo is capable to architect and develop high available and completely modular systems. Ensuring quality through all development lifecicle. 
 His dream is share his knowledge and develop really great things that will change people's life. He also seeks the cultural, professional and intellectual exchange of work with professionals around the world.
@@ -19,7 +19,7 @@ His dream is share his knowledge and develop really great things that will chang
 
 **Front-End:** HTML, CSS, LESS, Javascript, JQuery, KnockoutJs, Bootstrap;
 
-**Database:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB, Elasticsearch, Apache Solr;
+**Database:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
 **Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration (with git + jenkins and git + tfs).
 

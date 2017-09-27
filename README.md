@@ -28,10 +28,10 @@ His dream is share his knowledge and develop really great things that will chang
 **Others:** AWS IAS, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM.
 
 ## Academic:
-Graduation in System Analysis – FATEC São Paulo – 2 years completed (course locked).</br>
-Graduation in Game Development – FATEC Carapicuiba – 3 years completed (course locked).</br>
-Technical in Mechatronics - ETEC Martin Luther King – Concluded in 2009;</br>
-English: Advanced and in development, advanced conversation, advanced writiug and fluent reading.</br>
+**Graduation in System Analysis** – FATEC São Paulo – 2 years completed (course locked).</br>
+**Graduation in Game Development** – FATEC Carapicuiba – 3 years completed (course locked).</br>
+**Technical in Mechatronics** - ETEC Martin Luther King – Concluded in 2009;</br>
+**English** - Advanced and in development, advanced conversation, advanced writiug and fluent reading.</br>
 
 ## Professional Experience:
 

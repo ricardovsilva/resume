@@ -15,17 +15,17 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## IT Knowledges
 
-**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), development and consumption of webservices, Microservices;
+**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJS (Express, Chromeless), development and consumption of webservices, microservice architecture;
 
-**Front-End:** HTML, CSS, LESS, Javascript, JQuery, KnockoutJs, Bootstrap;
+**Front-End:** HTML, CSS, LESS, Javascript, RequireJS, JQuery, Require KnockoutJs, Bootstrap;
 
 **Database:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
-**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration (with git + jenkins and git + tfs).
+**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration (with git + jenkins and git + tfs);
 
-**Version Control Systems:** Git (self hosted, github and bitbucket), Microsoft TFS.
+**Version Control Systems:** Git (self hosted, github and bitbucket), Microsoft TFS;
 
-**Others:** AWS IAS, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM.
+**Others:** AWS, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
 
 ## Academic:
 **Graduation in System Analysis** – FATEC São Paulo – 2 years completed (course locked).</br>

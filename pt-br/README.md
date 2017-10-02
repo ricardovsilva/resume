@@ -14,41 +14,41 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 
 ## Conhecimentos de TI
-**Back-End:** .Net (Asp.Net MVC), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJs (Express, Chromeless), dentre outros.
+**Back-End:** .Net (Asp.Net MVC 4 e 5, Core), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJs (Express, Chromeless). Desenvolvimento, arquitetura e consumo de microsserviços, dentre outros;
 
-**Front-End:** HTML, CSS, Javascript, JQuery, KnockoutJs, Bootstrap.
+**Front-End:** HTML, CSS, LESS, Javascript, RequireJS, JQuery, KnockoutJs, Bootstrap;
 
-**Banco de Dados:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB, Elasticsearch, Apache Solr.
+**Banco de Dados:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
-**Metodologias de Desenvolvimento:** TDD, BDD, Scrum, SOLID, Integração Continua (git + jenkins e git + tfs).
+**Metodologias de Desenvolvimento:** TDD, BDD, SOLID, Scrum, Integração Continua (git + jenkins e git + tfs).
 
 **Controle de Versão:** Git (github e bitbucket), Microsoft TFS.
 
-**Outros:** AWS, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
+**Outros:** AWS, Heroku, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
 
 ## Acadêmico:
-- Graduação em Análise e Desenvolvimento de Sistemas pela FATEC São Paulo. 2 anos concluídos. Curso atualmente trancado.</br>
-- Graduação em Desenvolvimento de Jogos Digitais pela FATEC Carapicúiba. 3 anos concluídos. Curso atualmente trancado.</br>
-- Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
+**Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Paulo - 2 anos concluídos (curso atualmente trancado)</br>
+**Graduação em Desenvolvimento de Jogos Digitais** - FATEC Carapicúiba - 3 anos concluídos (curso atualmente trancado)</br>
+Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
 
 ## Experiência Profissional:
 
-**2017 - Atualmente - BlendIT:** Programador Web Sênior</br>
+**BlendIT - Programador Web Sênior (4 meses de projeto)**</br>
 **Principais Atividades:** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 
-**2016 - 2017 - Cuponomia:** Programador Web Pleno</br>
+**Cuponomia - Programador Web Pleno (mai/2016 até mai/2017)</br>
 **Principais Atividades:** Desenvolvimento back-end e propor melhorias a arquitetura do sistema, apontando tecnologias a serem usadas e justificando o seu uso, tal como o desenvolvimento de sistemas satélites a fim de suportar e melhorar o fluxo de trabalho de toda a equipe. Desenvolvimento de micro serviços utilizando message queue. Treinamento e desenvolvimento de estagiário back-end.
 
-**2015 - 2016 - G&P:** Programador Web Pleno</br>
+**G&P - Programador Web Pleno (nov/2015 até mai/2016)**</br>
 **Principais Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo.
 
-**2014 - 2015 - Sistemas Seguros:** Programador Web Pleno </br>
+**Sistemas Seguros - Programador Web Pleno (dez/2014 - nov/2015)**</br>
 **Principais Atividades:** Análise, arquitetura e manutenção de módulos de sistema web para corretoras de seguros.
 
-**2012 - 2014 - Valid S.A.:** Analista de Sistemas Smartcard </br>
+**Valid S.A. - Analista de Sistemas Smartcard (out/2012 até dez/2014)**</br>
 **Principais Atividades:** Análise, arquitetura e desenvolvimento de sistema de gerenciamento de ambiente de produção para cartões bancários (chips ST e Toshiba) e cartões de transporte (NXP e Infineon Mifare), DLLs de personalização de cartões bancários, carregamento de templates de personalização, inseração de chaves criptográficas em HSM, software de controle de qualidade. Também desenvolvi aplicações para ler e escrever em tags NFC My-d-Move (infineon) e PKI.
 
-**2012 - 2012 - Vip Systems:** Programador Jr</br>
+**Vip Systems - Programador Jr (abr/2012 até out/2012)**</br>
 **Principais Atividades:** Desenvolvimento de módulos e relatórios para PDV. Desenvolvimento de views e procedures para centralizar a regra de negócios na base de dados. Desenvolvimento de aplicações interativas para lojas e eventos (como totens de informação e boas vindas). O desenvolvimento foi feito em Java e C# com integração com Kinect e RFID.
 
 ## Projetos da Comunidade:

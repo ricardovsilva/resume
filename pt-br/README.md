@@ -36,7 +36,7 @@ Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avanç
 **BlendIT - Programador Web Sênior (4 meses de projeto)**</br>
 **Principais Atividades:** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 
-**Cuponomia - Programador Web Pleno (mai/2016 até mai/2017)</br>
+**Cuponomia - Programador Web Pleno (mai/2016 até mai/2017)**</br>
 **Principais Atividades:** Desenvolvimento back-end e propor melhorias a arquitetura do sistema, apontando tecnologias a serem usadas e justificando o seu uso, tal como o desenvolvimento de sistemas satélites a fim de suportar e melhorar o fluxo de trabalho de toda a equipe. Desenvolvimento de micro serviços utilizando message queue. Treinamento e desenvolvimento de estagiário back-end.
 
 **G&P - Programador Web Pleno (nov/2015 até mai/2016)**</br>

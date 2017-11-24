@@ -4,18 +4,19 @@
 Boa Vista - Curitiba - PR - Brazil</br>
 Mobile: (+55 11)94985-7584</br>
 Skype: ricardovsilva</br>
-Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com
+Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
+http://ricardovsilva.github.io
 
 ## About:
-Ricardo is a System Architect and Full Stack developer that loves develop with a very strong knowledge in cryptography, digital signature and web application security. He has knowledge and experience with a great variety of languages and technologies, such as, but not limited to, Ruby (Rails, Sinatra and Jekyll), .NET environment, Python (with Django, Flask, Scrapy).</br>
-Ricardo is totally capable to design and develop from simple systems to high available distributed systems. For example Restful API based systems (with Rails, Sinatra, Nancy, Express, Flask and others).
+Ricardo is a System Architect and Full Stack developer, that loves develop, with a very strong background in cryptography, digital signature and web application security. He has knowledge and experience with a great variety of languages and technologies, such as, but not limited to, Ruby (Rails, Sinatra and Jekyll), .NET, Python (with Django, Flask, Scrapy).</br>
+Ricardo is totally capable to design and develop from simple systems to high available distributed systems. For example Restful API based systems (with Rails, Sinatra, Nancy, Express, Flask and others).</br>
 Ricardo easily exchanges free time for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, he loves the Open Source way, the history and the philosophy behind each project, and have done a few contributions with some open repositories. Also, loves Python language and Python community. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
 Definetly, his strongest point is the back-end knowledge (not only with languages, but also with infrastructure), also knows some frontend, like html5, css, javascript, knockoutjs, wordpress and other technologies.</br>
 His dream is share his knowledge and develop really great things that will change people's life. He also seeks the cultural, professional and intellectual exchange of work with professionals around the world.
 
 ## IT Knowledges
 
-**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJS (Express, Chromeless), development and consumption of webservices (Restful and non Restful), microservice architecture;
+**Back-End:** .Net (Asp.Net MVC 4 and 5, Core), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJS (Express, Chromeless), development and consumption of webservices (Restful and non Restful), microservice architecture;
 
 **Front-End:** HTML, CSS, LESS, Bootstrap, RequireJS, React, Vue, KnockoutJs, JQuery;
 

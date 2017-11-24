@@ -5,18 +5,20 @@ Boa Vista - Curitiba - PR - Brasil</br>
 Cel.: (+55 11)94985-7584</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
+http://ricardovsilva.github.io
 
 ## Sobre:
-Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como .NET, Ruby (Rails, Sinatra e Jekyll), Python (Django, CherryPy, Scrapper e PyGame), Nodejs(Express, Chromeless) além de diversos bancos de dados, relacionais e não relacionais, como Sql Server, Oracle, MySql e MongoDb.</br>
+Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como, mas não limitado a, Ruby (Rails, Sinatra e Jekyll), .NET, Python (Django, Flask, Scrapy).</br>
+Ricardo é totalmente capaz de desenhar e desenvolver desde sistemas simples até sistemas distribuidos de alta disponibilidade. Como por exemplo, sistemas baseados em APIs Restful (com Rails, Sinatra, Nancy, Express, Flask e outros).</br>
 Ricardo facilmente troca noites de sono por mais tempo para aprender ou desenvolver, e ele está sempre aprendendo novas tecnologias tanto quanto participando da comunidade Open Source. Falando em Open Source, Ricardo ama o jeito Open Source e a história e filosofia que estão por trás de cada projeto. Ele também ama a linguagem Python e sua comunidade. Isto significa que ele consegue facilmente, e prefere, trabalhar em ambientes Linux (hoje ele continua usando Windows somente porque ele ama jogar também).</br>
 Graças ao seu background com variadas tecnologias, Ricardo é capaz de arquitetar e desenvolver soluções de alta disponibilidade, com qualidade e de fácil manutenção, respeitando as particularidades de cada solução e escolhendo o conjunto de ferramentas mais adequadas a cada caso.</br>
 Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandiosas e que irão mudar as vidas das pessoas. Ele também busca a troca cultural, profissional e intelectual de trabalhar com profissionais de todo o mundo.
 
 
 ## Conhecimentos de TI
-**Back-End:** .Net (Asp.Net MVC 4 e 5, Core), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJs (Express, Chromeless). Desenvolvimento, arquitetura e consumo de microsserviços, dentre outros;
+**Back-End:** .Net (Asp.Net MVC 4 e 5, Core), Ruby (Rails, Sinatra e Jekyll), Python (Django, Flask, Scrapy, Pyramid, CherryPy, Py Game), NodeJs (Express, Chromeless). Desenvolvimento, arquitetura e consumo de webservices e microsserviços;
 
-**Front-End:** HTML, CSS, LESS, Javascript, RequireJS, JQuery, KnockoutJs, Bootstrap;
+**Front-End:** HTML, CSS, LESS, Javascript, RequireJS, React, Vue, KnockoutJs, Bootstrap, JQuery;
 
 **Banco de Dados:** Microsoft Sql Server, Oracle, MySql, PostgreSQL, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
@@ -33,26 +35,20 @@ Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avanç
 
 ## Experiência Profissional:
 
-**BlendIT - Programador Web Sênior (4 meses de projeto)**</br>
-**Principais Atividades:** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
+**BlendIT - Programador Web Sênior (2017 até atualmente):** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 
-**Cuponomia - Programador Web Pleno (mai/2016 até mai/2017)**</br>
-**Principais Atividades:** Desenvolvimento back-end e propor melhorias a arquitetura do sistema, apontando tecnologias a serem usadas e justificando o seu uso, tal como o desenvolvimento de sistemas satélites a fim de suportar e melhorar o fluxo de trabalho de toda a equipe. Desenvolvimento de micro serviços utilizando message queue. Treinamento e desenvolvimento de estagiário back-end.
+**Cuponomia - Programador Web Pleno (mai/2016 até mai/2017):** Desenvolvimento back-end e propor melhorias a arquitetura do sistema, apontando tecnologias a serem usadas e justificando o seu uso, tal como o desenvolvimento de sistemas satélites a fim de suportar e melhorar o fluxo de trabalho de toda a equipe. Desenvolvimento de micro serviços utilizando message queue. Treinamento e desenvolvimento de estagiário back-end.
 
-**G&P - Programador Web Pleno (nov/2015 até mai/2016)**</br>
-**Principais Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo.
+**G&P - Programador Web Pleno (nov/2015 até mai/2016):** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo.
 
-**Sistemas Seguros - Programador Web Pleno (dez/2014 - nov/2015)**</br>
-**Principais Atividades:** Análise, arquitetura e manutenção de módulos de sistema web para corretoras de seguros.
+**Sistemas Seguros - Programador Web Pleno (dez/2014 - nov/2015):** Análise, arquitetura e manutenção de módulos de sistema web para corretoras de seguros.
 
-**Valid S.A. - Analista de Sistemas Smartcard (out/2012 até dez/2014)**</br>
-**Principais Atividades:** Análise, arquitetura e desenvolvimento de sistema de gerenciamento de ambiente de produção para cartões bancários (chips ST e Toshiba) e cartões de transporte (NXP e Infineon Mifare), DLLs de personalização de cartões bancários, carregamento de templates de personalização, inseração de chaves criptográficas em HSM, software de controle de qualidade. Também desenvolvi aplicações para ler e escrever em tags NFC My-d-Move (infineon) e PKI.
+**Valid S.A. - Analista de Sistemas Smartcard (out/2012 até dez/2014):** Análise, arquitetura e desenvolvimento de sistema de gerenciamento de ambiente de produção para cartões bancários (chips ST e Toshiba) e cartões de transporte (NXP e Infineon Mifare), DLLs de personalização de cartões bancários, carregamento de templates de personalização, inseração de chaves criptográficas em HSM, software de controle de qualidade. Também desenvolvi aplicações para ler e escrever em tags NFC My-d-Move (infineon) e PKI.
 
-**Vip Systems - Programador Jr (abr/2012 até out/2012)**</br>
-**Principais Atividades:** Desenvolvimento de módulos e relatórios para PDV. Desenvolvimento de views e procedures para centralizar a regra de negócios na base de dados. Desenvolvimento de aplicações interativas para lojas e eventos (como totens de informação e boas vindas). O desenvolvimento foi feito em Java e C# com integração com Kinect e RFID.
+**Vip Systems - Programador Jr (abr/2012 até out/2012):** Desenvolvimento de módulos e relatórios para PDV. Desenvolvimento de views e procedures para centralizar a regra de negócios na base de dados. Desenvolvimento de aplicações interativas para lojas e eventos (como totens de informação e boas vindas). O desenvolvimento foi feito em Java e C# com integração com Kinect e RFID.
 
 ## Projetos da Comunidade:
-- Eu possuo repositórios de código aberto que podem ser acessados em meu perfil do github https://github.com/ricardovsilva</br>
+- Atualmente me dedicando a refatoração do projeto Open Source Botpress (https://github.com/botpress/botpress)</br>
 - Eu traduzi o tutorial interativo de ruby, TryRuby.nl, para o português do Brasil. Este pode ser acessado em http://tryruby.nl</br>
 - Participo ativamente do StackOverflow internacional (http://stackoverflow.com/users/2350913/ricardo-silva) e do StackOverflow Brasileiro (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
  

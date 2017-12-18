@@ -35,7 +35,7 @@ Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avanç
 
 ## Experiência Profissional:
 
-**BlendIT - Programador Web Sênior (2017 até atualmente):** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
+**BlendIT Curitiba - Programador Web Sênior (mai/2017 até dez/2017):** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 
 **Cuponomia - Programador Web Pleno (mai/2016 até mai/2017):** Desenvolvimento back-end e propor melhorias a arquitetura do sistema, apontando tecnologias a serem usadas e justificando o seu uso, tal como o desenvolvimento de sistemas satélites a fim de suportar e melhorar o fluxo de trabalho de toda a equipe. Desenvolvimento de micro serviços utilizando message queue. Treinamento e desenvolvimento de estagiário back-end.
 

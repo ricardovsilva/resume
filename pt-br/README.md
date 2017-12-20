@@ -31,21 +31,27 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 ## Acadêmico:
 **Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Paulo - 2 anos concluídos (curso atualmente trancado)</br>
 **Graduação em Desenvolvimento de Jogos Digitais** - FATEC Carapicúiba - 3 anos concluídos (curso atualmente trancado)</br>
-Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
+**Inglês** Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
 
 ## Experiência Profissional:
 
-**BlendIT Curitiba - Programador Web Sênior (mai/2017 até dez/2017):** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
+**BlendIT Curitiba - Programador Web Sênior (mai/2017 até dez/2017):** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento. </br>
+**Tecnologias Utilizadas:** C# (Asp.NET MVC, .NET Core, NancyFX, MSTest, Simpleinject), NodeJS (chromeless), HTML, CSS, Javascript (JQuery e RequireJS), Apache Solr, Elasticsearch, TFS, AuroraDB, PLSQL, TFS, GIT.
 
-**Cuponomia - Programador Web Pleno (mai/2016 até mai/2017):** Desenvolvimento back-end e propor melhorias a arquitetura do sistema, apontando tecnologias a serem usadas e justificando o seu uso, tal como o desenvolvimento de sistemas satélites a fim de suportar e melhorar o fluxo de trabalho de toda a equipe. Desenvolvimento de micro serviços utilizando message queue. Treinamento e desenvolvimento de estagiário back-end.
+**Cuponomia - Programador Web Pleno (mai/2016 até mai/2017):** Desenvolvimento back-end e propor melhorias a arquitetura do sistema, apontando tecnologias a serem usadas e justificando o seu uso, tal como o desenvolvimento de sistemas satélites a fim de suportar e melhorar o fluxo de trabalho de toda a equipe. Desenvolvimento de micro serviços utilizando message queue. Treinamento e desenvolvimento de estagiário back-end.</br>
+**Tecnologias Utilizadas:** Jenkins, AWS, C# (Asp.NET MVC, Windsor Castle, Open Rasta, MSTest), Ruby, Python (Scrapy, Flask), HTML, CSS (LESS), Javascript (JQuery, MoustacheJS, RequireJS), MSSQL, Elasticsearch, Github.
 
-**G&P - Programador Web Pleno (nov/2015 até mai/2016):** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo.
+**G&P - Programador Web Pleno (nov/2015 até mai/2016):** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo.</br>
+**Tecnologias Utilizadas:** C# (Asp.NET MVC, Web API), HTML, CSS, Javascript (JQuery e KnockoutJS).
 
-**Sistemas Seguros - Programador Web Pleno (dez/2014 - nov/2015):** Análise, arquitetura e manutenção de módulos de sistema web para corretoras de seguros.
+**Sistemas Seguros - Programador Web Pleno (dez/2014 - nov/2015):** Análise, arquitetura e manutenção de módulos de sistema web para corretoras de seguros.</br>
+**Tecnologias Utilizadas:** C# (Asp.NET MVC, Web API, WCF), HTML, CSS, Javascript (JQuery), Sonar, Ruby (Rails e Sinatra), Python, MSSQL, TFS.
 
-**Valid S.A. - Analista de Sistemas Smartcard (out/2012 até dez/2014):** Análise, arquitetura e desenvolvimento de sistema de gerenciamento de ambiente de produção para cartões bancários (chips ST e Toshiba) e cartões de transporte (NXP e Infineon Mifare), DLLs de personalização de cartões bancários, carregamento de templates de personalização, inseração de chaves criptográficas em HSM, software de controle de qualidade. Também desenvolvi aplicações para ler e escrever em tags NFC My-d-Move (infineon) e PKI.
+**Valid S.A. - Analista de Sistemas Smartcard (out/2012 até dez/2014):** Análise, arquitetura e desenvolvimento de sistema de gerenciamento de ambiente de produção para cartões bancários (chips ST e Toshiba) e cartões de transporte (NXP e Infineon Mifare), DLLs de personalização de cartões bancários, carregamento de templates de personalização, inseração de chaves criptográficas em HSM, software de controle de qualidade. Também desenvolvi aplicações para ler e escrever em tags NFC My-d-Move (infineon) e PKI.</br>
+**Tecnologias Utilizadas:** C# (Windows Forms e Webforms), Python, Lua, MSSQL, Git, Phabricator.
 
-**Vip Systems - Programador Jr (abr/2012 até out/2012):** Desenvolvimento de módulos e relatórios para PDV. Desenvolvimento de views e procedures para centralizar a regra de negócios na base de dados. Desenvolvimento de aplicações interativas para lojas e eventos (como totens de informação e boas vindas). O desenvolvimento foi feito em Java e C# com integração com Kinect e RFID.
+**Vip Systems - Programador Jr (abr/2012 até out/2012):** Desenvolvimento de módulos e relatórios para PDV. Desenvolvimento de views e procedures para centralizar a regra de negócios na base de dados. Desenvolvimento de aplicações interativas para lojas e eventos (como totens de informação e boas vindas).</br>
+**Tecnologias Utilizadas:** Java, C#, Kinect, RFID.
 
 ## Projetos da Comunidade:
 - Atualmente me dedicando a refatoração do projeto Open Source Botpress (https://github.com/botpress/botpress)</br>

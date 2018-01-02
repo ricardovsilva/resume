@@ -5,7 +5,7 @@ Barueri - SP - Brasil</br>
 Cel.: (+55 11)94985-7584</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
-http://ricardovsilva.github.io
+https://ricardovsilva.github.io
 
 ## Sobre:
 Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como, mas não limitado a, Ruby (Rails, Sinatra e Jekyll), .NET, Python (Django, Flask, Scrapy).</br>

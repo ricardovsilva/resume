@@ -5,7 +5,7 @@ Barueri - SP - Brazil</br>
 Mobile: (+55 11)94985-7584</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
-http://ricardovsilva.github.io
+https://ricardovsilva.github.io
 
 ## About:
 Ricardo is a System Architect and Full Stack developer, that loves develop, with a very strong background in cryptography, digital signature and web application security. He has knowledge and experience with a great variety of languages and technologies, such as, but not limited to, Ruby (Rails, Sinatra and Jekyll), .NET, Python (with Django, Flask, Scrapy).</br>

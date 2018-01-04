@@ -7,7 +7,7 @@ Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
 https://ricardovsilva.github.io
 
-## Sobre:
+## Sobre
 Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como, mas não limitado a, Ruby (Rails, Sinatra e Jekyll), .NET, Python (Django, Flask, Scrapy).</br>
 Ricardo é totalmente capaz de desenhar e desenvolver desde sistemas simples até sistemas distribuidos de alta disponibilidade. Como por exemplo, sistemas baseados em APIs Restful (com Rails, Sinatra, Nancy, Express, Flask e outros).</br>
 Ricardo está sempre aprendendo novas tecnologias e participando de comunidades Open Source. Falando em Open Source, Ricardo ama o jeito Open Source e a história e filosofia que estão por trás de cada projeto. Ele também ama a linguagem Python e sua comunidade. Isto significa que ele consegue facilmente, e prefere, trabalhar em ambientes Linux (hoje ele continua usando Windows somente porque ele ama jogar também).</br>
@@ -28,12 +28,12 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 **Outros:** AWS, Heroku, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
 
-## Acadêmico:
+## Acadêmico
 **Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Paulo - 2 anos concluídos (curso atualmente trancado)</br>
 **Graduação em Desenvolvimento de Jogos Digitais** - FATEC Carapicúiba - 3 anos concluídos (curso atualmente trancado)</br>
 Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
 
-## Experiência Profissional:
+## Experiência Profissional
 
 **BlendIT Curitiba - Programador Web Sênior (mai/2017 até dez/2017):** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 
@@ -47,12 +47,12 @@ Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avanç
 
 **Vip Systems - Programador Jr (abr/2012 até out/2012):** Desenvolvimento de módulos e relatórios para PDV. Desenvolvimento de views e procedures para centralizar a regra de negócios na base de dados. Desenvolvimento de aplicações interativas para lojas e eventos (como totens de informação e boas vindas). O desenvolvimento foi feito em Java e C# com integração com Kinect e RFID.
 
-## Projetos da Comunidade:
+## Projetos da Comunidade
 - Atualmente me dedicando a refatoração do projeto Open Source Botpress (https://github.com/botpress/botpress)</br>
 - Eu traduzi o tutorial interativo de ruby, TryRuby.nl, para o português do Brasil. Este pode ser acessado em http://tryruby.nl</br>
 - Participo ativamente do StackOverflow internacional (http://stackoverflow.com/users/2350913/ricardo-silva) e do StackOverflow Brasileiro (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
  
-## Redes Sociais:
+## Redes Sociais
 
 - **Linkedin:** https://br.linkedin.com/pub/ricardo-silva/27/673/660/en</br>
 - **Github:** https://github.com/ricardovsilva</br>
@@ -60,7 +60,7 @@ Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avanç
 - **StackOverflow (Brasileiro):** http://pt.stackoverflow.com/users/24406/ricardo-silva</br>
 - **Twitter:** https://twitter.com/MrTruthDev
 
-## Informações Adicionais:
+## Informações Adicionais
 
 - Eu tenho visto de Negócios Americano (B1/B2). Expira em 2023.</br>
 - Possuo conhecimentos EMV e Java Applets para Smartcards (bancários de transporte).</br>

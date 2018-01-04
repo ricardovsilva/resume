@@ -7,7 +7,7 @@ Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
 https://ricardovsilva.github.io
 
-## About:
+## About
 Ricardo is a System Architect and Full Stack developer, that loves develop, with a very strong background in cryptography, digital signature and web application security. He has knowledge and experience with a great variety of languages and technologies, such as, but not limited to, Ruby (Rails, Sinatra and Jekyll), .NET, Python (with Django, Flask, Scrapy).</br>
 Ricardo is totally capable to design and develop from simple systems to high available distributed systems. For example Restful API based systems (with Rails, Sinatra, Nancy, Express, Flask and others).</br>
 Ricardo easily exchanges free time for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, he loves the Open Source way, the history and the philosophy behind each project, and have done a few contributions with some open repositories. Also, loves Python language and Python community. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
@@ -28,13 +28,13 @@ His dream is share his knowledge and develop really great things that will chang
 
 **Others:** AWS, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
 
-## Academic:
+## Academic
 **Graduation in System Analysis** – FATEC São Paulo – 2 years completed (course locked).</br>
 **Graduation in Game Development** – FATEC Carapicuiba – 3 years completed (course locked).</br>
 **Technical in Mechatronics** - ETEC Martin Luther King – Concluded in 2009;</br>
 **English** - Advanced and in development, advanced conversation, advanced writiug and fluent reading.</br>
 
-## Professional Experience:
+## Professional Experience
 
 **BlendIT - Sr Web Developer (2017 to Actual):** Architecture and development of wide range web applications. Refactor and improvement of legacy systems using best practices and spreading those practices to all team.
 
@@ -48,14 +48,14 @@ His dream is share his knowledge and develop really great things that will chang
 
 **Vip-Systems - Jr Software Engineer (2012 to 2012):** Development of modules and reports for sells program (developed in Visual Fox Pro 9 with MySQL). Development of views and procedures to centralize all business rules in database. Development of interactive applications to stores and events (information and welcome totens) developed in Java and C# and with Kinect and RFID integration.
 
-## Community Projects:
+## Community Projects
 
 - I have github open source codes repository that can be accessed in https://github.com/ricardovsilva</br>
 - I translated TryRuby.nl interactive tutorial to Brazilian Portuguese, it can be accessed in http://tryruby.nl.</br>
 - I take part in StackExchange translation from english to brazilian portuguese (translation is already completed, actually project is in review stage).</br>
 - I take part, actively, on global StackOverflow (http://stackoverflow.com/users/2350913/ricardo-silva) and Brazilian StackOverflow (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
 
-## Social Networks:
+## Social Networks
 
 **Linkedin:** https://br.linkedin.com/pub/ricardo-silva/27/673/660/en</br>
 **Github:** https://github.com/ricardovsilva</br>
@@ -63,7 +63,7 @@ His dream is share his knowledge and develop really great things that will chang
 **StackOverflow (Brazilian):** http://pt.stackoverflow.com/users/24406/ricardo-silva</br>
 **Twitter:** https://twitter.com/MrTruthDev
 
-## Aditional Information:
+## Aditional Information
 
 I have North American Business Visa (expires in 2023)</br>
 I have EMV knowledge, also in Java Applets for Smartcards (bank and transport cards).</br>

@@ -2,7 +2,7 @@
 
 26 years</br>
 Barueri - SP - Brazil</br>
-Mobile: (+55 11)94985-7584</br>
+Mobile: (+55 11)94985-7584 | (+55 11)99441-5473</br>
 Skype: ricardovsilva</br>
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
 https://ricardovsilva.github.io

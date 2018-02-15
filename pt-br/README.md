@@ -34,6 +34,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
 
 ## Experiência Profissional
+**Catho - Programador Sênior (fev/2018 até atual):** Arquitetura e desenvolvimento de melhorias para o módulo de currículos. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 
 **BlendIT Curitiba - Programador Web Sênior (mai/2017 até dez/2017):** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 

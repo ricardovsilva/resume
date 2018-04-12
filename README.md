@@ -16,7 +16,7 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## IT Knowledges
 
-**Back-End:** .Net (Asp.Net MVC 4 and 5, Core), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJS (Express, Chromeless), development and consumption of webservices (Restful and non Restful), microservice architecture;
+**Back-End:** .Net (Asp.Net MVC 4 and 5, Core), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), NodeJS (Express, Chromeless), PHP (Phalcon and Zend), development and consumption of webservices (Restful and non Restful), microservice architecture;
 
 **Front-End:** HTML, CSS, LESS, Bootstrap, RequireJS, React, Vue, KnockoutJs, JQuery;
 
@@ -36,7 +36,9 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## Professional Experience
 
-**BlendIT - Sr Web Developer (2017 to Actual):** Architecture and development of wide range web applications. Refactor and improvement of legacy systems using best practices and spreading those practices to all team.
+**Catho - Sr Web Developer (2018 to actual):** Architecture and development of new features to CV and search modules. Spread best practices into entire development team.
+
+**BlendIT - Sr Web Developer (2017 to 2017):** Architecture and development of wide range web applications. Refactor and improvement of legacy systems using best practices and spreading those practices to all team.
 
 **Cuponomia - Web Developer (2016 to 2017):** Back-end development and propose improvements to system architecture, pointing new technologies and justifying its use, such as development of satellite systems to support and improve all team workflow. Development of microservices using MQ system. Training and improvement of a back-end trainee.
 

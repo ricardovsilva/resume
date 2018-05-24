@@ -32,7 +32,7 @@ His dream is share his knowledge and develop really great things that will chang
 **Graduation in System Analysis** – FATEC São Paulo – 2 years completed (course locked).</br>
 **Graduation in Game Development** – FATEC Carapicuiba – 3 years completed (course locked).</br>
 **Technical in Mechatronics** - ETEC Martin Luther King – Concluded in 2009;</br>
-**English** - Advanced and in development, advanced conversation, advanced writiug and fluent reading.</br>
+**English** - Advanced and in development, advanced conversation, advanced writing and fluent reading.</br>
 
 ## Professional Experience
 

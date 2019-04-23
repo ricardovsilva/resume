@@ -26,7 +26,7 @@ His dream is share his knowledge and develop really great things that will chang
 
 **Version Control Systems:** Git (self hosted, github and bitbucket), Microsoft TFS;
 
-**Others:** Google Cloud, AWS, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
+**Others:** Google Cloud, Kubernetes, Docker, AWS, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
 
 ## Academic
 **Graduation in System Analysis** – FATEC São Paulo – 2 years completed (course locked).</br>

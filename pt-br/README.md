@@ -26,7 +26,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 **Controle de Versão:** Git (github e bitbucket), Microsoft TFS.
 
-**Outros:** Google Cloud, AWS, Heroku, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
+**Outros:** Google Cloud, Kubernetes, Docker, AWS, Heroku, Arquitetura de Software, Engenharia de Software, Gerenciamento de Projetos, Desenvolvimento de Jogos, Criptografia, Assinatura Digital, RFID, NFC, PKCS 11 compliant HSM.
 
 ## Acadêmico
 **Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Paulo - 2 anos concluídos (curso atualmente trancado)</br>

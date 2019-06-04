@@ -36,7 +36,7 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## Professional Experience
 
-**Casafy - CTO (oct/2018 to actual):** Management of development team, keep the existing system working. Design and architecture of the new structure that support the business plan for the next years, IT costs management. Writing of challenges to hire new talents, lead the interview process to hire new developers. Implement Scrum in the company and spread the agile culture through the entire team.
+**Casafy - CTO (oct/2018 to may/2019):** Management of development team, keep the existing system working. Design and architecture of the new structure that support the business plan for the next years, IT costs management. Writing of challenges to hire new talents, lead the interview process to hire new developers. Implement Scrum in the company and spread the agile culture through the entire team.
 
 **Catho - Sr Web Developer (feb/2018 - oct/2018):** Architecture and development of new features to CV and search modules. Spread best practices into entire development team.
 

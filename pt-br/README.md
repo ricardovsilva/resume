@@ -34,7 +34,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
 
 ## Experiência Profissional
-**Casafy - CTO (oct/2018 até atual)** - Gerenciamento do time de desenvolvimento, manter o sistema atual funcionando, design e arquitetura da nova estrutura para suportar o plano de negócios para os próximos anos, gerenciamento de custos de TI. Escrita de desafios para contratar novos talentos, liderar o processo de entrevista para recrutar novos desenvolvedores. Implementar o Scrum na empresa e disseminar a cultura de desenvolvimento ágil por todo o time.
+**Casafy - CTO (oct/2018 até mai/2019)** - Gerenciamento do time de desenvolvimento, manter o sistema atual funcionando, design e arquitetura da nova estrutura para suportar o plano de negócios para os próximos anos, gerenciamento de custos de TI. Escrita de desafios para contratar novos talentos, liderar o processo de entrevista para recrutar novos desenvolvedores. Implementar o Scrum na empresa e disseminar a cultura de desenvolvimento ágil por todo o time.
 
 **Catho - Programador Sênior (fev/2018 até oct/2018):** Arquitetura e desenvolvimento de melhorias para o módulo de currículos. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 

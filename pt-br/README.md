@@ -17,7 +17,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 ## Conhecimentos de TI
 
-**Back-End:** Javascript (Express, Apollo Server), Ruby (Rails, Sinatra e Jekyll), Python (Django, Flask, Scrapy, Pyramid, CherryPy, Py Game), .Net (Asp.Net MVC 4 e 5, Core), NodeJs (Express, Chromeless). Desenvolvimento, arquitetura e consumo de webservices e microsserviços;
+**Back-End:** Javascript (Express, Apollo Server), Ruby (Rails, Sinatra e Jekyll), Python (Django, Flask, Scrapy, Pyramid, CherryPy, Py Game), .Net (Asp.Net MVC 4 e 5, Core), Scala (Akka). Desenvolvimento, arquitetura e consumo de webservices e microsserviços;
 
 **Front-End:** HTML, CSS, LESS, Javascript, RequireJS, React, Vue, KnockoutJs, Bootstrap, JQuery;
 

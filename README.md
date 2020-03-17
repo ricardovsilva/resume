@@ -17,7 +17,7 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## IT Knowledges
 
-**Back-End:** Javascript (Express, Apollo Server), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), .Net (Asp.Net MVC 4 and 5, Core), NodeJS (Express, Chromeless), PHP (Phalcon and Zend), development and consumption of webservices, microservice architecture;
+**Back-End:** Javascript (Express, Apollo Server), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), .Net (Asp.Net MVC 4 and 5, Core), NodeJS (ApolloGraphql, Express, Chromeless), PHP (Phalcon and Zend), development and consumption of webservices, microservice architecture;
 
 **Front-End:** HTML, CSS, LESS, Bootstrap, RequireJS, React, Vue, KnockoutJs, JQuery;
 
@@ -38,8 +38,9 @@ His dream is share his knowledge and develop really great things that will chang
 
 ## Professional Experience
 
-**Gympass - Sr Software Engineer (jul/2019 to actual):** Backend developer at the team that is creating the new mobile app of Gympass. Architect and develop new queries using Apollo Graphql, together with native developers, so the native developers can focus on mobile features instead of business rules and api performance.  
+**Gympass - Sr Software Engineer (jul/2019 to mar/2020):** Backend developer at the team that is creating the new mobile app of Gympass. Architect and develop new queries using Apollo Graphql, together with native developers, so the native developers can focus on mobile features instead of business rules and api performance.  
 Review code of other teams and write unit tests to ensure that coverage don't go below the established coverage gate.
+Also acted in some tasks related to SRE in order to put services in production into AWS environment.
 
 **Casafy - CTO (oct/2018 to may/2019):** Management of development team, keep the existing system working. Design and architecture of the new structure that support the business plan for the next years, IT costs management. Writing of challenges to hire new talents, lead the interview process to hire new developers. Implement Scrum in the company and spread the agile culture through the entire team.
 

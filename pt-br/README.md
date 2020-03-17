@@ -9,7 +9,7 @@ https://ricardovsilva.github.io
 
 ## Sobre
 
-Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como, mas não limitado a, Ruby (Rails, Sinatra e Jekyll), .NET, Python (Django, Flask, Scrapy) Javascript (Apollo Server, Express, Chromeless).</br>
+Ricardo é um arquiteto de sistemas que adora programar. Ele tem experiência e conhecimento com uma grande variedade de linguagens e tecnologias, como, mas não limitado a, Ruby (Rails, Sinatra e Jekyll), .NET, Python (Django, Flask, Scrapy) Javascript (ApolloGraphql, Express, Chromeless).</br>
 Ricardo é totalmente capaz de desenhar e desenvolver desde sistemas simples até sistemas distribuidos de alta disponibilidade. Como por exemplo, sistemas baseados em APIs Restful (com Rails, Sinatra, Nancy, Express, Flask e outros).</br>
 Ricardo está sempre aprendendo novas tecnologias e participando de comunidades Open Source. Falando em Open Source, Ricardo ama o jeito Open Source e a história e filosofia que estão por trás de cada projeto. Ele também ama a linguagem Python e sua comunidade. Isto significa que ele consegue facilmente, e prefere, trabalhar em ambientes Linux (hoje ele continua usando Windows somente porque ele ama jogar também).</br>
 Graças ao seu background com variadas tecnologias, Ricardo é capaz de arquitetar e desenvolver soluções de alta disponibilidade, com qualidade e de fácil manutenção, respeitando as particularidades de cada solução e escolhendo o conjunto de ferramentas mais adequadas a cada caso.</br>
@@ -17,7 +17,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 ## Conhecimentos de TI
 
-**Back-End:** Javascript (Express, Apollo Server), Ruby (Rails, Sinatra e Jekyll), Python (Django, Flask, Scrapy, Pyramid, CherryPy, Py Game), .Net (Asp.Net MVC 4 e 5, Core), Scala (Akka). Desenvolvimento, arquitetura e consumo de webservices e microsserviços;
+**Back-End:** Javascript (Express, ApolloGraphql), Ruby (Rails, Sinatra e Jekyll), Python (Django, Flask, Scrapy, Pyramid, CherryPy, Py Game), .Net (Asp.Net MVC 4 e 5, Core), Scala (Akka). Desenvolvimento, arquitetura e consumo de webservices e microsserviços;
 
 **Front-End:** HTML, CSS, LESS, Javascript, RequireJS, React, Vue, KnockoutJs, Bootstrap, JQuery;
 
@@ -37,8 +37,9 @@ Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avanç
 
 ## Experiência Profissional
 
-**Gympass - Engenheiro de Software Sênior (jul/2019 até atualmente ):** Desenvolvedor backend no time que está criando o novo app do Gympass. Arquitetar e desenvolver novas queries utilizando Apollo Graphql, junto ao time de desenvolvedores native, de forma que os desenvolvedores native possam focar em features mobile ao invés de regras de negócio e performance de apis.
+**Gympass - Engenheiro de Software Sênior (jul/2019 até mar/2020 ):** Desenvolvedor backend no time que está criando o novo app do Gympass. Arquitetar e desenvolver novas queries utilizando Apollo Graphql, junto ao time de desenvolvedores native, de forma que os desenvolvedores native possam focar em features mobile ao invés de regras de negócio e performance de apis.
 Revisão do código de outros times e escrita de testes unitários a fim de garantir que a cobertura não caia abaixo do limite mínimo de cobertura pré-estabelecido.
+Também atuei em tarefas relacionadas a SRE a fim de disponibilizar os serviços em produção em ambiente AWS.
 
 **Casafy - CTO (oct/2018 até mai/2019)** - Gerenciamento do time de desenvolvimento, manter o sistema atual funcionando, design e arquitetura da nova estrutura para suportar o plano de negócios para os próximos anos, gerenciamento de custos de TI. Escrita de desafios para contratar novos talentos, liderar o processo de entrevista para recrutar novos desenvolvedores. Implementar o Scrum na empresa e disseminar a cultura de desenvolvimento ágil por todo o time.
 

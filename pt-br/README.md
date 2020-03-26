@@ -31,9 +31,9 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 ## Acadêmico
 
-**Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Paulo - 2 anos concluídos (curso atualmente trancado)</br>
-**Graduação em Desenvolvimento de Jogos Digitais** - FATEC Carapicúiba - 3 anos concluídos (curso atualmente trancado)</br>
-Inglês: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
+**Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Paulo - 2 anos concluídos (curso atualmente trancado)  
+**Graduação em Desenvolvimento de Jogos Digitais** - FATEC Carapicúiba - 3 anos concluídos (curso atualmente trancado)  
+**Inglês:** Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.  
 
 ## Experiência Profissional
 

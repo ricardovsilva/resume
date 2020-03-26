@@ -15,7 +15,7 @@ Ricardo está sempre aprendendo novas tecnologias e participando de comunidades 
 Graças ao seu background com variadas tecnologias, Ricardo é capaz de arquitetar e desenvolver soluções de alta disponibilidade, com qualidade e de fácil manutenção, respeitando as particularidades de cada solução e escolhendo o conjunto de ferramentas mais adequadas a cada caso.</br>
 Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandiosas e que irão mudar as vidas das pessoas. Ele também busca a troca cultural, profissional e intelectual de trabalhar com profissionais de todo o mundo.
 
-## Conhecimentos de TI
+## Skills
 
 **Back-End:** Javascript (Express, ApolloGraphql), Ruby (Rails, Sinatra e Jekyll), Python (Django, Flask, Scrapy, Pyramid, CherryPy, Py Game), .Net (Asp.Net MVC 4 e 5, Core), Scala (Akka). Desenvolvimento, arquitetura e consumo de webservices e microsserviços;
 

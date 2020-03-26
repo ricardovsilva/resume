@@ -15,7 +15,7 @@ Ricardo easily exchanges free time for more time to learn or develop, and he is 
 Definetly, his strongest point is his overview about the entire process of a software development, including the architecture of systems, cloud, team management, SCRUM and good programming practices.</br>
 His dream is share his knowledge and develop really great things that will change people's life. He also seeks the cultural, professional and intellectual exchange of work with professionals around the world.
 
-## IT Knowledges
+## Skills
 
 **Back-End:** Javascript (Express, Apollo Server), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), .Net (Asp.Net MVC 4 and 5, Core), NodeJS (ApolloGraphql, Express, Chromeless), PHP (Phalcon and Zend), development and consumption of webservices, microservice architecture;
 

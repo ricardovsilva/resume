@@ -44,7 +44,7 @@ Também atuei em tarefas relacionadas a SRE a fim de disponibilizar os serviços
 
 **Casafy - CTO (out/2018 até mai/2019)** - Gerenciamento do time de desenvolvimento, manter o sistema atual funcionando, design e arquitetura da nova estrutura para suportar o plano de negócios para os próximos anos, gerenciamento de custos de TI. Escrita de desafios para contratar novos talentos, liderar o processo de entrevista para recrutar novos desenvolvedores. Implementar o Scrum na empresa e disseminar a cultura de desenvolvimento ágil por todo o time.
 
-**Catho - Programador Sênior (fev/2018 até oct/2018):** Arquitetura e desenvolvimento de melhorias para o módulo de currículos. Disseminar as melhores práticas entre a equipe de desenvolvimento.
+**Catho - Programador Sênior (fev/2018 até out/2018):** Arquitetura e desenvolvimento de melhorias para o módulo de currículos. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 
 **BlendIT Curitiba - Programador Web Sênior (mai/2017 até dez/2017):** Arquitetura e desenvolvimento de aplicações web diversas. Refatoração e melhoramento de sistemas legados utilizando as melhores práticas. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 

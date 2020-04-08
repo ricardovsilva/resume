@@ -61,7 +61,7 @@ Também atuei em tarefas relacionadas a SRE a fim de disponibilizar os serviços
 ## Projetos da Comunidade
 
 - Atualmente me dedicando a refatoração do projeto Open Source Botpress (https://github.com/botpress/botpress)</br>
-- Eu traduzi o tutorial interativo de ruby, TryRuby.nl, para o português do Brasil. Este pode ser acessado em https://easydatawarehousing.github.io/TryRuby/</br>
+- Eu traduzi o tutorial interativo de ruby, TryRuby, para o português do Brasil. Este pode ser acessado em https://try.ruby-lang.org/</br>
 - Participo ativamente do StackOverflow internacional (http://stackoverflow.com/users/2350913/ricardo-silva) e do StackOverflow Brasileiro (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
 
 ## Redes Sociais

@@ -42,7 +42,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 Revisão do código de outros times e escrita de testes unitários a fim de garantir que a cobertura não caia abaixo do limite mínimo de cobertura pré-estabelecido.
 Também atuei em tarefas relacionadas a SRE a fim de disponibilizar os serviços em produção em ambiente AWS.
 
-**Casafy - CTO (oct/2018 até mai/2019)** - Gerenciamento do time de desenvolvimento, manter o sistema atual funcionando, design e arquitetura da nova estrutura para suportar o plano de negócios para os próximos anos, gerenciamento de custos de TI. Escrita de desafios para contratar novos talentos, liderar o processo de entrevista para recrutar novos desenvolvedores. Implementar o Scrum na empresa e disseminar a cultura de desenvolvimento ágil por todo o time.
+**Casafy - CTO (out/2018 até mai/2019)** - Gerenciamento do time de desenvolvimento, manter o sistema atual funcionando, design e arquitetura da nova estrutura para suportar o plano de negócios para os próximos anos, gerenciamento de custos de TI. Escrita de desafios para contratar novos talentos, liderar o processo de entrevista para recrutar novos desenvolvedores. Implementar o Scrum na empresa e disseminar a cultura de desenvolvimento ágil por todo o time.
 
 **Catho - Programador Sênior (fev/2018 até oct/2018):** Arquitetura e desenvolvimento de melhorias para o módulo de currículos. Disseminar as melhores práticas entre a equipe de desenvolvimento.
 

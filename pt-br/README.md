@@ -33,6 +33,7 @@ Seu sonho é compartilhar seu conhecimento e desenvolver coisas realmente grandi
 
 **Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Paulo - 2 anos concluídos (curso atualmente trancado)  
 **Graduação em Desenvolvimento de Jogos Digitais** - FATEC Carapicúiba - 3 anos concluídos (curso atualmente trancado)  
+**Técnico em Mecatrônica** - ETEC Martin Luther King – concluído em 2009  
 **Inglês:** Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.  
 
 ## Experiência Profissional

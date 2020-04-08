@@ -61,7 +61,7 @@ Also acted in some tasks related to SRE in order to put services in production i
 ## Community Projects
 
 - I have github open source codes repository that can be accessed in https://github.com/ricardovsilva</br>
-- I translated TryRuby.nl interactive tutorial to Brazilian Portuguese, it can be accessed in https://easydatawarehousing.github.io/TryRuby/</br>
+- I translated TryRuby interactive tutorial to Brazilian Portuguese, it can be accessed in https://try.ruby-lang.org/</br>
 - I take part in StackExchange translation from english to brazilian portuguese (translation is already completed, actually project is in review stage).</br>
 - I take part, actively, on global StackOverflow (http://stackoverflow.com/users/2350913/ricardo-silva) and Brazilian StackOverflow (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
 

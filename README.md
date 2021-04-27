@@ -1,80 +1,89 @@
 # Ricardo da Verdade Silva
 
-28 years</br>
-Barueri - SP - Brazil</br>
-Mobile: (+55 11) 94985-7584</br>
-Skype: ricardovsilva</br>
-Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com</br>
+29 years  
+Barueri - SP - Brazil  
+Mobile: (+55 11) 94985-7584  
+Skype: ricardovsilva  
+Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com  
 https://ricardovsilva.github.io
 
 ## About
 
-Ricardo is a System Architect and Full Stack developer, that loves develop, with a very strong background in cryptography, digital signature and web application security. He has knowledge and experience with a great variety of languages and technologies, such as, but not limited to, Ruby (Rails, Sinatra and Jekyll), .NET, Python (with Django, Flask, Scrapy) and Javascript (Apollo Server, Express, Chromeless).</br>
-Ricardo is totally capable to design and develop from simple systems to high available distributed systems. For example Restful API based systems (with Rails, Sinatra, Nancy, Express, Flask and others).</br>
-Ricardo easily exchanges free time for more time to learn or develop, and he is always learning new technologies, such as participating of Open Source community. Speaking in Open Source, he loves the Open Source way, the history and the philosophy behind each project, and have done a few contributions with some open repositories. Also, loves Python language and Python community. This means that he can easily, and prefer, work with a Linux environment (today he still just using windows because he love games too).</br>
-Definetly, his strongest point is his overview about the entire process of a software development, including the architecture of systems, cloud, team management, SCRUM and good programming practices.</br>
-His dream is share his knowledge and develop really great things that will change people's life. He also seeks the cultural, professional and intellectual exchange of work with professionals around the world.
+Ricardo is a system architect and full stack developer with leadership experience, passioned about technology, with a solid background in cryptography, digital signature, and distributed systems. He has knowledge and experience with a great variety of languages and technologies, such as, but not limited to, Ruby, .NET, Python, and Javascript.  
+Ricardo can evaluate the trade-offs and discuss with all parts evolved to deliver value to the business while keeping systems at high-quality standards.  
+Ricardo exchanges free time for more time to learn, and he is always learning new technologies, such as participating in the Open Source community. Speaking in Open Source, he loves the Open Source way, to know the background history and philosophy of each project, and has made a few contributions with some open repositories. This means that he can easily and prefers to work with a Linux environment (today, he still uses windows because he loves games).   
+His dream is to share his knowledge and develop great things to change people's lives. He also seeks the cultural, professional, and intellectual exchange of work with professionals worldwide.
 
 ## Skills
 
-**Back-End:** Javascript (Express, Apollo Server), Ruby (Rails, Sinatra and Jekyll), Python (Django, Flask, Scrapy, CherryPy, Py Game), .Net (Asp.Net MVC 4 and 5, Core), NodeJS (ApolloGraphql, Express, Chromeless), PHP (Phalcon and Zend), development and consumption of webservices, microservice architecture;
+**Back-End:**
+Javascript:  Express, Apollo Server, Jest;  
+ Ruby: Rails, Sinatra, Jekyll, Sidekiq, Cucumber;
+Python: Django, Flask, Scrapy, CherryPy, Pyramid, Py Game and pytest;
+ .Net: Asp.Net MVC 4 and 5, Core, Fluentassertions, NUnit, MSTest;
+PHP: Phalcon and Zend;
+Others: Distributed architecture, load tests;
 
 **Front-End:** HTML, CSS, LESS, Bootstrap, RequireJS, React, Vue, KnockoutJs, JQuery;
 
-**Database:** Microsoft Sql Server, MySql, PostgreSQL, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
+**Databases:**
+SQL: Microsoft Sql Server, MySql, PostgreSQL; 
+NoSQL: Firebase, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
-**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration (with git + jenkins and git + tfs);
+**Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration (with git + jenkins);
 
-**Version Control Systems:** Git (self hosted, github and bitbucket), Microsoft TFS;
+**Version Control Systems:** Git (self hosted, github and bitbucket);
 
 **Others:** Google Cloud, Kubernetes, Docker, AWS, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
 
 ## Academic
 
-**Graduation in System Analysis** – FATEC São Paulo – 2 years completed (course locked).</br>
-**Graduation in Game Development** – FATEC Carapicuiba – 3 years completed (course locked).</br>
-**Technical in Mechatronics** - ETEC Martin Luther King – Concluded in 2009;</br>
-**English** - Advanced and in development, advanced conversation, advanced writing and fluent reading.</br>
+**Graduation in System Analysis** – FATEC São Paulo – 2 years completed (course locked).  
+**Graduation in Game Development** – FATEC Carapicuiba – 3 years completed (course locked).  
+**Technical in Mechatronics** - ETEC Martin Luther King – Concluded in 2009;  
+**English** - Advanced and in development, advanced conversation, advanced writing, and fluent reading.  
 
 ## Professional Experience
 
-**Gympass - Sr Software Engineer (jul/2019 to mar/2020):** Backend developer at the team that is creating the new mobile app of Gympass. Architect and develop new queries using Apollo Graphql, together with native developers, so the native developers can focus on mobile features instead of business rules and api performance.  
+**Carlabs - Software Architect/Tech Lead (Jun/2020 to present):** Started as Software Architect and promoted to Tech Lead in a north American multinational company. Architected and developed distributed systems to scale Carlabs products and the leadership of distributed engineering team.
+
+**Gympass - Sr Software Engineer (Jul/2019 to Mar/2020):** Backend developer at the team creating the new mobile app of Gympass. Architect and develop new queries using Apollo Graphql and native developers so that the native developers can focus on mobile features instead of business rules and API performance.  
 Review code of other teams and write unit tests to ensure that coverage don't go below the established coverage gate.
-Also acted in some tasks related to SRE in order to put services in production into AWS environment.
+Also acted in some tasks related to SRE to put services in production into AWS environment.
 
-**Casafy - CTO (oct/2018 to may/2019):** Management of development team, keep the existing system working. Design and architecture of the new structure that support the business plan for the next years, IT costs management. Writing of challenges to hire new talents, lead the interview process to hire new developers. Implement Scrum in the company and spread the agile culture through the entire team.
+**Casafy - CTO (Oct/2018 to May/2019):** Leadership of development team, keep the existing system working. Design and architecture of the new structure that supports the business plan for the following years, I.T. costs management. Writing of challenges to hire new talents, lead the interview process to hire new developers. Implement Scrum in the company and spread the agile culture through the entire team.
 
-**Catho - Sr Web Developer (feb/2018 - oct/2018):** Architecture and development of new features to CV and search modules. Spread best practices into entire development team.
+**Catho - Sr Backend Software Engineer (Feb/2018 - Oct/2018):** Architecture and development of new features to CV and search modules. Spread best practices into the entire development team.
 
-**BlendIT - Sr Web Developer (may/2017 até dec/2017):** Architecture and development of wide range web applications. Refactor and improvement of legacy systems using best practices and spreading those practices to all team.
+**BlendIT - Sr Software Engineer (May/2017 - Dec/2017):** Architecture and development of a wide range of web applications. I am refactoring and improving legacy systems using best practices and spreading those practices to all teams.
 
-**Cuponomia - Web Developer (may/2016 - may/2017):** Back-end development and propose improvements to system architecture, pointing new technologies and justifying its use, such as development of satellite systems to support and improve all team workflow. Development of microservices using MQ system. Training and improvement of a back-end trainee.
+**Cuponomia - Mid Software Engineer (May/2016 - May/2017):** Back-end development and propose improvements to system architecture, pointing to new technologies and justifying its use, such as developing satellite systems support and improve all team workflow. Development of microservices using M.Q. system. Training and improvement of a back-end trainee.
 
-**G&P - Web Developer (nov/2015 - may/2016):** Analysis, architecture and development of web systems for São Paulo’s State Government.
+**G&P - Web Developer (Nov/2015 - May/2016):** Analysis, architecture, and development of web systems for São Paulo's State Government.
 
-**Sistemas Seguros - Web Developer (dec/2014 - nov/2015):** Analysis, arquitecture and maintenance of online brokerage system modules.
+**Sistemas Seguros - Web Developer (Dec/2014 - Nov/2015):** Analysis, architecture, and maintenance of online brokerage system modules.
 
-**Valid S.A. - Smartcard System Analyst (oct/2012 - dec/2014):** Analysis, architecture and development of management of banking (ST and Toshiba) and transport (NXP and Infineon Mifare) environments - personalization DLLs, personalization template loading, insertion of keys in HSM, quality control software. Also development of applications to read and write My-d-Move NFC tags (Infineon) and PKI .
+**Valid S.A. - Smartcard System Analyst (Oct/2012 - Dec/2014):** Analysis, architecture, and development of management of banking (S.T. and Toshiba) and transport (NXP and Infineon Mifare) environments - personalization DLLs, personalization template loading, insertion of keys in HSM, quality control software. Also, development of applications to read and write My-d-Move NFC tags (Infineon) and PKI.
 
-**Vip-Systems - Jr Software Engineer (apr/2012 - oct/2012):** Development of modules and reports for sells program (developed in Visual Fox Pro 9 with MySQL). Development of views and procedures to centralize all business rules in database. Development of interactive applications to stores and events (information and welcome totens) developed in Java and C# and with Kinect and RFID integration.
+**Vip-Systems - Jr Software Engineer (Apr/2012 - Oct/2012):** development of modules and reports for sales program (developed in Visual Fox Pro 9 with MySQL). Development of views and procedures to centralize all business rules in the database. Development of interactive applications to stores and events (information and welcome totems) developed in Java and C# and with Kinect and RFID integration.
 
 ## Community Projects
 
-- I have github open source codes repository that can be accessed in https://github.com/ricardovsilva</br>
-- I translated TryRuby interactive tutorial to Brazilian Portuguese, it can be accessed in https://try.ruby-lang.org/</br>
-- I take part in StackExchange translation from english to brazilian portuguese (translation is already completed, actually project is in review stage).</br>
-- I take part, actively, on global StackOverflow (http://stackoverflow.com/users/2350913/ricardo-silva) and Brazilian StackOverflow (http://pt.stackoverflow.com/users/24406/ricardo-silva)</br>
+- I have a GitHub open-source codes repository https://github.com/ricardovsilva;  
+- I translated TryRuby interactive tutorial to Brazilian Portuguese https://try.ruby-lang.org/;  
+- I take part in StackExchange translation from English to Brazilian Portuguese;  
+I actively participate in global StackOverflow (http://stackoverflow.com/users/2350913/ricardo-silva) and Brazilian StackOverflow (http://pt.stackoverflow.com/users/24406/ricardo-silva).
 
 ## Social Networks
 
-**Linkedin:** https://br.linkedin.com/pub/ricardo-silva/27/673/660/en</br>
-**Github:** https://github.com/ricardovsilva</br>
-**Stackoverflow (Global):** http://stackoverflow.com/users/2350913/ricardo-silva</br>
-**StackOverflow (Brazilian):** http://pt.stackoverflow.com/users/24406/ricardo-silva</br>
-**Twitter:** https://twitter.com/MrTruthDev
+**Linkedin:** https://br.linkedin.com/pub/ricardo-silva/27/673/660/en  
+**Github:** https://github.com/ricardovsilva  
+**Stackoverflow (Global):** http://stackoverflow.com/users/2350913/ricardo-silva  
+**StackOverflow (Brazilian):** http://pt.stackoverflow.com/users/24406/ricardo-silva  
+**Twitter:** https://twitter.com/rickvdd_
 
 ## Aditional Information
 
-I have North American Business Visa (expires in 2023)</br>
-I have EMV knowledge, also in Java Applets for Smartcards (bank and transport cards).</br>
-I also have two years of experience with user support and IT infrastructure.</br>
+I have a North American Business Visa (expires in 2023)  
+I have EMV knowledge and Java Applets for Smartcards (bank and transport cards).  
+I also have two years of experience with user support and I.T. infrastructure.  

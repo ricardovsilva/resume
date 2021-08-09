@@ -1,7 +1,7 @@
 # Ricardo da Verdade Silva
 
-29 years  
-Barueri - SP - Brazil  
+30 years  
+Itapevi - SP - Brazil  
 Mobile: (+55 11) 94985-7584  
 Skype: ricardovsilva  
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com  

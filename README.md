@@ -1,30 +1,30 @@
 # Ricardo da Verdade Silva
 
 30 years  
-Itapevi - SP - Brazil  
-Mobile: (+55 11) 94985-7584  
+SP - Brazil  
 Skype: ricardovsilva  
 Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com  
-https://ricardovsilva.github.io
+https://ricardovsilva.github.io  
+Linkedin: https://br.linkedin.com/pub/ricardo-silva/27/673/660/en
 
 ## About
 
-Ricardo is a system architect and full stack developer with leadership experience, passioned about technology, with a solid background in cryptography, digital signature, and distributed systems. He has knowledge and experience with a great variety of languages and technologies, such as, but not limited to, Ruby, .NET, Python, and Javascript.  
+Ricardo is a software architect and full stack developer acting as tech leader, passioned about technology, with a solid background in cryptography, digital signature, and distributed systems. He has knowledge and experience with a great variety of languages and technologies, such as, but not limited to, Ruby, .NET, Python, and Javascript.  
 Ricardo can evaluate the trade-offs and discuss with all parts evolved to deliver value to the business while keeping systems at high-quality standards.  
 Ricardo exchanges free time for more time to learn, and he is always learning new technologies, such as participating in the Open Source community. Speaking in Open Source, he loves the Open Source way, to know the background history and philosophy of each project, and has made a few contributions with some open repositories. This means that he can easily and prefers to work with a Linux environment (today, he still uses windows because he loves games).   
 His dream is to share his knowledge and develop great things to change people's lives. He also seeks the cultural, professional, and intellectual exchange of work with professionals worldwide.
+Currently, Ricardo is on process to get AWS Solutions Architect certification.
 
 ## Skills
 
 **Back-End:**
-Javascript:  Express, Apollo Server, Jest;  
- Ruby: Rails, Sinatra, Jekyll, Sidekiq, Cucumber;
+Javascript: TS, Express, Apollo Server, Jest;  
+Ruby: Rails, Sinatra, Jekyll, Sidekiq, Cucumber;
 Python: Django, Flask, Scrapy, CherryPy, Pyramid, Py Game and pytest;
- .Net: Asp.Net MVC 4 and 5, Core, Fluentassertions, NUnit, MSTest;
-PHP: Phalcon and Zend;
+.Net: Asp.Net MVC 4 and 5, Core, Fluentassertions, NUnit, MSTest;
 Others: Distributed architecture, load tests;
 
-**Front-End:** HTML, CSS, LESS, Bootstrap, RequireJS, React, Vue, KnockoutJs, JQuery;
+**Front-End:** HTML, CSS, LESS, React, Vue, KnockoutJs;
 
 **Databases:**
 SQL: Microsoft Sql Server, MySql, PostgreSQL; 
@@ -34,7 +34,7 @@ NoSQL: Firebase, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
 **Version Control Systems:** Git (self hosted, github and bitbucket);
 
-**Others:** Google Cloud, Kubernetes, Docker, AWS, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
+**Others:** AWS, Google Cloud, Kubernetes, Docker, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
 
 ## Academic
 
@@ -45,7 +45,9 @@ NoSQL: Firebase, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
 ## Professional Experience
 
-**Carlabs - Software Architect/Tech Lead (Jun/2020 to present):** Started as Software Architect and promoted to Tech Lead in a north American multinational company. Architected and developed distributed systems to scale Carlabs products and the leadership of distributed engineering team.
+**Jungle Scout - Tech Lead (Nov/2021 to present):** Technical leader in the team responsible for product development and maintenance of Jungle Scout Public API, giving technical guidance, designing and developing architecture of internal systems, improving the team processes, and helping the team to raise the bar related to development speed, fluid interaction between engineers, software security, quality and technical debts management.
+
+**Carlabs - Software Architect/Tech Lead (Jun/2020 to Nov/2021):** Started as Software Architect and promoted to Tech Lead in a north American multinational company. Architected and developed distributed systems to scale Carlabs products and the leadership of distributed engineering team.
 
 **Gympass - Sr Software Engineer (Jul/2019 to Mar/2020):** Backend developer at the team creating the new mobile app of Gympass. Architect and develop new queries using Apollo Graphql and native developers so that the native developers can focus on mobile features instead of business rules and API performance.  
 Review code of other teams and write unit tests to ensure that coverage don't go below the established coverage gate.

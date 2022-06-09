@@ -2,9 +2,7 @@
 
 30 years  
 SP - Brazil  
-Skype: ricardovsilva  
-Emails: ricardovsilva@msn.com / ricardovsilva.ti@gmail.com  
-https://ricardovsilva.github.io  
+Emails: ricardovsilva.ti@gmail.com  
 Linkedin: https://br.linkedin.com/pub/ricardo-silva/27/673/660/en
 
 ## About
@@ -34,7 +32,7 @@ NoSQL: Firebase, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
 **Version Control Systems:** Git (self hosted, github and bitbucket);
 
-**Others:** AWS, Google Cloud, Kubernetes, Docker, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
+**Others:** AWS, CDK, Google Cloud, Kubernetes, Docker, Heroku, Software Architecture, Software Engineering, Project Management, Game Development, Cryptography, Digital Signature, RFID, NFC, PKCS 11 compliant HSM;
 
 ## Academic
 

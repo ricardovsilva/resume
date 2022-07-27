@@ -1,6 +1,6 @@
 # Ricardo da Verdade Silva
 
-30 years  
+31 years  
 SP - Brazil  
 Emails: ricardovsilva.ti@gmail.com  
 Linkedin: https://br.linkedin.com/pub/ricardo-silva/27/673/660/en

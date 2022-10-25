@@ -42,7 +42,7 @@ NoSQL: Firebase, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
 ## Professional Experience
 
-**Jungle Scout - Tech Lead (Nov/2021 to present):** Technical leader in the team responsible for product development and maintenance of Jungle Scout Public API, giving technical guidance, designing and developing architecture of internal systems, improving the team processes, and helping the team to raise the bar related to development speed, fluid interaction between engineers, software security, quality and technical debts management.
+**Jungle Scout - Tech Lead (Nov/2021 to Oct/2022):** Technical leader in the team responsible for product development and maintenance of Jungle Scout Public API, giving technical guidance, designing and developing architecture of internal systems, improving the team processes, and helping the team to raise the bar related to development speed, fluid interaction between engineers, software security, quality and technical debts management.
 
 **Carlabs - Software Architect/Tech Lead (Jun/2020 to Nov/2021):** Started as Software Architect and promoted to Tech Lead in a north American multinational company. Architected and developed distributed systems to scale Carlabs products and the leadership of distributed engineering team.
 

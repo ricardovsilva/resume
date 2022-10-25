@@ -46,13 +46,12 @@ NoSQL: Firebase, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
 
 **Carlabs - Software Architect/Tech Lead (Jun/2020 to Nov/2021):** Started as Software Architect and promoted to Tech Lead in a north American multinational company. Architected and developed distributed systems to scale Carlabs products and the leadership of distributed engineering team.
 
-**Gympass - Sr Software Engineer (Jul/2019 to Mar/2020):** Backend developer at the team creating the new mobile app of Gympass. Architect and develop new queries using Apollo Graphql and native developers so that the native developers can focus on mobile features instead of business rules and API performance.  
-Review code of other teams and write unit tests to ensure that coverage don't go below the established coverage gate.
-Also acted in some tasks related to SRE to put services in production into AWS environment.
+**Gympass - Sr Software Engineer (Jul/2019 to Mar/2020):** Backend developer at the team creating the new mobile app of Gympass. Architect and develop new queries using Apollo Graphql and native developers so that the native developers can focus on mobile features instead of business rules and API performance.
+Review the code of other teams and write unit tests to ensure that coverage doesn't go below the established coverage gate. Also acted on some tasks related to SRE to put services in production into the AWS environment.
 
-**Casafy - CTO (Oct/2018 to May/2019):** Leadership of development team, keep the existing system working. Design and architecture of the new structure that supports the business plan for the following years, I.T. costs management. Writing of challenges to hire new talents, lead the interview process to hire new developers. Implement Scrum in the company and spread the agile culture through the entire team.
+**Casafy - CTO (Oct/2018 to May/2019):** The leader of the development team keeps the existing system works. Design and architecture of the new structure that supports the business plan for the following years, I.T. costs management. Writing challenges to hire new talents and leading the interview process to hire new developers. Implement Scrum in the company and spread the agile culture through the entire team.
 
-**Catho - Sr Backend Software Engineer (Feb/2018 - Oct/2018):** Architecture and development of new features to CV and search modules. Spread best practices into the entire development team.
+**Catho - Sr Backend Software Engineer (Feb/2018 - Oct/2018):** Architecture and development of new features to CV and search modules. Spread best practices to the entire development team.
 
 **BlendIT - Sr Software Engineer (May/2017 - Dec/2017):** Architecture and development of a wide range of web applications. I am refactoring and improving legacy systems using best practices and spreading those practices to all teams.
 

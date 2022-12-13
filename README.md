@@ -13,16 +13,16 @@ Ricardo is a software architect and full stack developer acting as a tech leader
 
 **Back-End:**
 Javascript: TS, Express, Apollo Server, Jest;  
-Ruby: Rails, Sinatra, Jekyll, Sidekiq, Cucumber;
-Python: Django, Flask, Scrapy, CherryPy, Pyramid, Py Game and pytest;
-.Net: Asp.Net MVC 4 and 5, Core, Fluentassertions, NUnit, MSTest;
-Others: Distributed architecture, load tests;
+Ruby: Rails, Sinatra, Jekyll, Sidekiq, Cucumber;  
+Python: Django, Flask, Scrapy, CherryPy, Pyramid, Py Game and pytest;  
+.Net: Asp.Net MVC 4 and 5, Core, Fluentassertions, NUnit, MSTest;  
+Others: Distributed architecture, load tests;  
 
 **Front-End:** HTML, CSS, LESS, React, Vue, KnockoutJs;
 
 **Databases:**
 SQL: Microsoft Sql Server, MySql, PostgreSQL; 
-NoSQL: Firebase, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;
+NoSQL: Firebase, DynamoDB, MongoDB, Elasticsearch, Apache Solr, Redis, Redshift;  
 
 **Development Methodologies:** TDD, BDD, SOLID, Scrum, Continuous Integration (with git + jenkins);
 

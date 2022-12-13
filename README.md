@@ -79,6 +79,5 @@ I actively participate in global StackOverflow (http://stackoverflow.com/users/2
 
 ## Aditional Information
 
-I have a North American Business Visa (expires in 2023)  
 I have EMV knowledge and Java Applets for Smartcards (bank and transport cards).  
 I also have two years of experience with user support and I.T. infrastructure.  

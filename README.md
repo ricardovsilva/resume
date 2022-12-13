@@ -71,7 +71,7 @@ I actively participate in global StackOverflow (http://stackoverflow.com/users/2
 
 ## Social Networks
 
-**Linkedin:** https://br.linkedin.com/pub/ricardo-silva/27/673/660/en  
+**Linkedin:** https://linkedin.com/in/rickvdd
 **Github:** https://github.com/ricardovsilva  
 **Stackoverflow (Global):** http://stackoverflow.com/users/2350913/ricardo-silva  
 **StackOverflow (Brazilian):** http://pt.stackoverflow.com/users/24406/ricardo-silva  
